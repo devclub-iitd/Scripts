@@ -1,0 +1,7535 @@
+[
+    {
+        "slot": "P",
+        "code": "AMD310",
+        "name": "MINI PROJECT (AM)",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "VIKRANT TIWARI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "AMD813",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SITIKANTHA ROY",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "AMD814",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SITIKANTHA ROY",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "AMD895",
+        "name": "MAJOR PROJECT",
+        "credit": 40,
+        "structure": "0-0-80",
+        "coordinator": "VIKRANT TIWARI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "AMD897",
+        "name": "MINOR PROJECT",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "ISHAQ SAYED MAKKAR",
+        "limit": "20"
+    },
+    {
+        "slot": "A",
+        "code": "AML310",
+        "name": "COMPUTATIONAL MECHANICS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SITIKANTHA ROY",
+        "limit": "50"
+    },
+    {
+        "slot": "E",
+        "code": "AML702",
+        "name": "APPLIED COMPUTATIONAL METHOD",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "ANUPAM DEWAN",
+        "limit": "40"
+    },
+    {
+        "slot": "H",
+        "code": "AML706",
+        "name": "FINITE ELEMENT METHODS & ITS APPL.TO MARINE STRU.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SRIRAM HEGDE",
+        "limit": "25"
+    },
+    {
+        "slot": "C",
+        "code": "AML793",
+        "name": "SHIP DYNAMICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ISHAQ SAYED MAKKAR",
+        "limit": "20"
+    },
+    {
+        "slot": "B",
+        "code": "AML795",
+        "name": "SUBMARINE DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ISHAQ SAYED MAKKAR",
+        "limit": "20"
+    },
+    {
+        "slot": "A",
+        "code": "AML831",
+        "name": "THEORY OF PLATES AND SHELLS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MALOY KUMAR SINGHA",
+        "limit": "50"
+    },
+    {
+        "slot": "A",
+        "code": "AML832",
+        "name": "APPLICATIONS OF THEORY OF PLATES AND SHELLS",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "Sushma Santapuri",
+        "limit": "50"
+    },
+    {
+        "slot": "B",
+        "code": "AML835",
+        "name": "MECHANICS OF COMPOSITE MATERIALS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIKRANT TIWARI",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "AMP776",
+        "name": "PRODUCT DESIGN PROJECT 1",
+        "credit": 4,
+        "structure": "2-0-4",
+        "coordinator": "S.N. SINGH",
+        "limit": "40"
+    },
+    {
+        "slot": "X0",
+        "code": "AMV803",
+        "name": "Multiscale challenges in Continuum Mechanics",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "AJEET KUMAR",
+        "limit": "30"
+    },
+    {
+        "slot": "AP",
+        "code": "APL100",
+        "name": "ENGINEERING MECHANICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "S.V. VEERAVALLI",
+        "limit": "300"
+    },
+    {
+        "slot": "AM",
+        "code": "APL100",
+        "name": "ENGINEERING MECHANICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "Arghya Samanta",
+        "limit": "300"
+    },
+    {
+        "slot": "E",
+        "code": "APL102",
+        "name": "INTR.TO MATERIAL SC. & ENGG.",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "Nitya Nand Gosvami",
+        "limit": "300"
+    },
+    {
+        "slot": "A",
+        "code": "APL105",
+        "name": "MECHANICS OF SOLIDS AND FLUIDS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "MURALI RAMAN CHOLEMARI",
+        "limit": "200"
+    },
+    {
+        "slot": "H",
+        "code": "APL705",
+        "name": "FINITE ELEMENT METHOD",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "BADRI PRASAD PATEL",
+        "limit": "100"
+    },
+    {
+        "slot": "K",
+        "code": "APL711",
+        "name": "Advanced Fluid Mechanics",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SANJEEV SANGHI",
+        "limit": "90"
+    },
+    {
+        "slot": "M",
+        "code": "APL720",
+        "name": "Computational Fluid Dynamics ",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "Arjun Sharma",
+        "limit": "30"
+    },
+    {
+        "slot": "B",
+        "code": "APL763",
+        "name": "Micro & Nanoscale Mechanical Behaviour of Materials",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "RAJESH PRASAD",
+        "limit": "50"
+    },
+    {
+        "slot": "A",
+        "code": "APL767",
+        "name": "ENGG. FAILURE ANALYSIS & PREV.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JAYANT JAIN",
+        "limit": "50"
+    },
+    {
+        "slot": "J",
+        "code": "APL774",
+        "name": "Modeling and Analysis",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIKRANT TIWARI",
+        "limit": "90"
+    },
+    {
+        "slot": "C",
+        "code": "APL796",
+        "name": "Advanced Solid Mechanics",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SITIKANTHA ROY",
+        "limit": "90"
+    },
+    {
+        "slot": "B",
+        "code": "APL871",
+        "name": "Product Reliability & Maintenance",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUHAIL AHMED",
+        "limit": "90"
+    },
+    {
+        "slot": "P",
+        "code": "ASD882",
+        "name": "PROJECT-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "Sandeep Sahany",
+        "limit": "20"
+    },
+    {
+        "slot": "M",
+        "code": "ASL360",
+        "name": "The Earth`s Atmosphere: Physical Principles ",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SAROJ KANTA MISHRA",
+        "limit": "85"
+    },
+    {
+        "slot": "F",
+        "code": "ASL734",
+        "name": "DYNAMICS OF THE ATMOSPHERE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MAITHILI SHARAN",
+        "limit": "40"
+    },
+    {
+        "slot": "J",
+        "code": "ASL736",
+        "name": "SCIENCE OF CLIMATE CHANGE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "KRISHNA MIRLE ACHUTARAO",
+        "limit": "100"
+    },
+    {
+        "slot": "E",
+        "code": "ASL737",
+        "name": "PHYSICAL AND DYNAMICAL OCEANOGRAPHY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIMLESH PANT",
+        "limit": "100"
+    },
+    {
+        "slot": "H",
+        "code": "ASL738",
+        "name": "NUMERICAL MODELING OF THE ATMOSPHERE AND OCEAN",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "S.K. DASH",
+        "limit": "50"
+    },
+    {
+        "slot": "D",
+        "code": "ASL754",
+        "name": "CLOUD PHYSICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DILIP GANGULY",
+        "limit": "100"
+    },
+    {
+        "slot": "B",
+        "code": "ASL760",
+        "name": "RENEWABLE ENERGY METEOROLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SOMNATH BAIDYA ROY",
+        "limit": "25"
+    },
+    {
+        "slot": "H",
+        "code": "ASL761",
+        "name": "EARTH SYSTEM MODELING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Sandeep Sahany",
+        "limit": "85"
+    },
+    {
+        "slot": "P",
+        "code": "ASP820",
+        "name": "ADVANCED DATA ANALYSIS FOR WEATHER AND CLIMATE",
+        "credit": 3,
+        "structure": "1-0-4",
+        "coordinator": "A.D. RAO",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "BBD452",
+        "name": "MAJOR PROJECT PART 2 (BB1)",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "RAVI KRISHNAN ELANGOVAN",
+        "limit": "80"
+    },
+    {
+        "slot": "P",
+        "code": "BBD851",
+        "name": "MAJOR PROJECT PART 1 (BB5)",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "Ashish Misra",
+        "limit": "80"
+    },
+    {
+        "slot": "P",
+        "code": "BBD852",
+        "name": "MAJOR PROJECT PART 2 (BB5)",
+        "credit": 14,
+        "structure": "0-0-28",
+        "coordinator": "Ashish Misra",
+        "limit": "80"
+    },
+    {
+        "slot": "P",
+        "code": "BBD853",
+        "name": "MAJOR PROJECT PART 1 (BB5)",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "Ashish Misra",
+        "limit": "80"
+    },
+    {
+        "slot": "P",
+        "code": "BBD854",
+        "name": "MAJOR PROJECT PART 2 (BB5)",
+        "credit": 16,
+        "structure": "0-0-32",
+        "coordinator": "Ashish Misra",
+        "limit": "80"
+    },
+    {
+        "slot": "B",
+        "code": "BBL341",
+        "name": "ENVIRONMENTAL BIOTECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHAIKH ZIAUDDIN AHAMMAD",
+        "limit": "80"
+    },
+    {
+        "slot": "J",
+        "code": "BBL343",
+        "name": "CARBOHYD. & LIPIDS IN BIOTECH.",
+        "credit": 3,
+        "structure": "2-1-0",
+        "coordinator": "ATUL NARANG",
+        "limit": "80"
+    },
+    {
+        "slot": "J",
+        "code": "BBL431",
+        "name": "BIOPROCESS TECHNOLOGY",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "V.S. BISARIA",
+        "limit": "80"
+    },
+    {
+        "slot": "H",
+        "code": "BBL432",
+        "name": "FLUID SOLID SYSTEMS",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "SUNIL NATH",
+        "limit": "80"
+    },
+    {
+        "slot": "D",
+        "code": "BBL433",
+        "name": "ENZYME SCIENCE AND ENGINEERING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "RAVI KRISHNAN ELANGOVAN",
+        "limit": "80"
+    },
+    {
+        "slot": "F",
+        "code": "BBL434",
+        "name": "BIOINFORMATICS",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "D.SUNDAR",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "BBL443",
+        "name": "MODELING & SIMULATION OF BIO.",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "Ashish Misra",
+        "limit": "40"
+    },
+    {
+        "slot": "E",
+        "code": "BBL445",
+        "name": "MEMBRANE APPLICATIONS IN BIO.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "G.P. AGARWAL",
+        "limit": "80"
+    },
+    {
+        "slot": "B",
+        "code": "BBL736",
+        "name": "DYNAMICS OF MICROBIAL SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ATUL NARANG",
+        "limit": "80"
+    },
+    {
+        "slot": "K",
+        "code": "BBL740",
+        "name": "PLANT CELL TECHNOLOGY",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "A.K. SRIVASTAVA",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "BBL742",
+        "name": "BIOLOGICAL WASTE TREATMENT",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "T.R.SREEKRISHNAN",
+        "limit": "80"
+    },
+    {
+        "slot": "H",
+        "code": "BBL745",
+        "name": "COMBINATORIAL BIOTECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PREETI SRIVASTAVA",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "BBL746",
+        "name": "Current Topics in Biochemical Engineering and Biotechnology",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SAROJ MISHRA",
+        "limit": "80"
+    },
+    {
+        "slot": "E",
+        "code": "BBL747",
+        "name": "BIONANOTECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PRASHANT MISHRA",
+        "limit": "80"
+    },
+    {
+        "slot": "F",
+        "code": "BBL749",
+        "name": "CANCER CELL BIOLOGY",
+        "credit": 4,
+        "structure": "3-0-3",
+        "coordinator": "RITU KULSHRESTHA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "BBQ301",
+        "name": "SEMINAR COURSE - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "P.K. ROYCHOUDHURY",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "BBQ302",
+        "name": "SEMINAR COURSE - II",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "ATUL NARANG",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "BBQ303",
+        "name": "SEMINAR COURSE - III",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "ATUL NARANG",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "BED800",
+        "name": "MAJOR PROJECT",
+        "credit": 40,
+        "structure": "0-0-80",
+        "coordinator": "RITU KULSHRESTHA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "BMD742",
+        "name": "Minor Biodesign Project",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "AMIT MEHNDIRATTA",
+        "limit": "99"
+    },
+    {
+        "slot": "AD",
+        "code": "BML735",
+        "name": "BIOMEDICAL SIGNAL AND IMAGE PR",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "ANUP SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "D",
+        "code": "BML736",
+        "name": "MATHEMATICS FOR BIOMEDICAL ENG",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANUP SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "C",
+        "code": "BML740",
+        "name": "Biomedical Instrumentation",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Deepak Joshi",
+        "limit": "30"
+    },
+    {
+        "slot": "E",
+        "code": "BML741",
+        "name": "MEDICAL DEVICE DESIGN",
+        "credit": 4,
+        "structure": "2-0-4",
+        "coordinator": "DINESH KALYANASUNDARAM",
+        "limit": "50"
+    },
+    {
+        "slot": "F",
+        "code": "BML750",
+        "name": "POINT OF CARE MEDICAL DIAG DEV",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SANDEEP KUMAR JHA",
+        "limit": "25"
+    },
+    {
+        "slot": "B",
+        "code": "BML760",
+        "name": "Biomedical Ethics, Safety and Regulatory Affairs",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "SANDEEP KUMAR JHA",
+        "limit": "30"
+    },
+    {
+        "slot": "AC",
+        "code": "BML790",
+        "name": "MODERN MEDICINE",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "AMIT MEHNDIRATTA",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "BML820",
+        "name": "BIOMATERIALS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "HARPAL SINGH",
+        "limit": "50"
+    },
+    {
+        "slot": "K",
+        "code": "BML860",
+        "name": "NANOMEDICINE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NEETU SINGH",
+        "limit": "35"
+    },
+    {
+        "slot": "P",
+        "code": "BMP743",
+        "name": "Basic Biomedical Laboratory",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "Jayanta Bhattacharyya",
+        "limit": "8"
+    },
+    {
+        "slot": "P",
+        "code": "BSD895",
+        "name": "MAJOR PROJECT(MSR)",
+        "credit": 36,
+        "structure": "0-0-72",
+        "coordinator": "SHANKAR PRAKRIYA",
+        "limit": "3"
+    },
+    {
+        "slot": "P",
+        "code": "CED812",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "JAGDISH TELANGRAO SHAHU",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "CED822",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "ABHIJIT GANGULI",
+        "limit": "50"
+    },
+    {
+        "slot": "A",
+        "code": "CED852",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "TANUSREE CHAKRABORTY",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "CED881",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "G.N. TEWARI",
+        "limit": "11"
+    },
+    {
+        "slot": "C",
+        "code": "CEL724",
+        "name": "EARTHQUAKE ANALYSIS AND DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VASANT A. MATSAGAR",
+        "limit": "10"
+    },
+    {
+        "slot": "A",
+        "code": "CEL761",
+        "name": "UNDERGROUND SPACE TECH.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K.S. RAO",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "CH100*",
+        "name": "INTRODUCTION TO THE DEPARTMENT",
+        "credit": 0,
+        "structure": "1-0-0",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "CHC410",
+        "name": "COLLOQUIUM (CH)",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "RAJESH KHANNA",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "CHD411",
+        "name": "MAJOR PROJECT PART 1 (CH)",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "15"
+    },
+    {
+        "slot": "P",
+        "code": "CHD412",
+        "name": "MAJOR PROJECT PART 2 (CH)",
+        "credit": 8,
+        "structure": "0-0-12",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "CHD771",
+        "name": "MINOR PROJECT",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "5"
+    },
+    {
+        "slot": "P",
+        "code": "CHD782",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "5"
+    },
+    {
+        "slot": "P",
+        "code": "CHD871",
+        "name": "Major Project Part 1 (CM)",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "5"
+    },
+    {
+        "slot": "P",
+        "code": "CHD872",
+        "name": "MAJOR PROJECT PART II (CM)",
+        "credit": 14,
+        "structure": "0-0-28",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "CHD873",
+        "name": "Major Project Part 1 (CM)",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "8"
+    },
+    {
+        "slot": "P",
+        "code": "CHD874",
+        "name": "MAJOR PROJECT PART 2 (CM)",
+        "credit": 16,
+        "structure": "0-0-32",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "CHD895",
+        "name": "MAJOR PROJECT",
+        "credit": 40,
+        "structure": "0-0-80",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "3"
+    },
+    {
+        "slot": "E",
+        "code": "CHP301",
+        "name": "FLUID MECHANICS &  HEAT TRANSFER LAB.",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "VIKRAM SINGH",
+        "limit": "7"
+    },
+    {
+        "slot": "P",
+        "code": "CHP303",
+        "name": "CHEMICAL REACTION ENGINEERING AND PROCESS CONTROL",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "MANOJKUMAR CHARANDAS RAMTEKE",
+        "limit": "10"
+    },
+    {
+        "slot": "E",
+        "code": "CHP311",
+        "name": "DESIGN& LABORATORY PRACTICS",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "RAJESH KHANNA",
+        "limit": "7"
+    },
+    {
+        "slot": "P",
+        "code": "CLD411",
+        "name": "B. TECH. PROJECT",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "15"
+    },
+    {
+        "slot": "P",
+        "code": "CLD412",
+        "name": "MAJOR PROJECT IN ENERGY & ENV.",
+        "credit": 5,
+        "structure": "0-0-10",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "CLD413",
+        "name": "MAJOR PROJECT IN COMPLEX FLUID",
+        "credit": 5,
+        "structure": "0-0-10",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "CLD414",
+        "name": "MAJOR PROJ. IN P.E, MOD. & OP.",
+        "credit": 5,
+        "structure": "0-0-10",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "CLD415",
+        "name": "MAJOR PROJ IN BIOP. & FINE CH.",
+        "credit": 5,
+        "structure": "0-0-10",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "CLD771",
+        "name": "Minor Project",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "CLD781",
+        "name": "Major Project - I ",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "5"
+    },
+    {
+        "slot": "P",
+        "code": "CLD782",
+        "name": "Major Project - II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "CLD880",
+        "name": "MINOR PROJECT",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "CLD881",
+        "name": "MAJOR PROJECT PARTI",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "5"
+    },
+    {
+        "slot": "P",
+        "code": "CLD882",
+        "name": "MAJOR PROJECT PARTII",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "CLD895",
+        "name": "MSR Major Project",
+        "credit": 40,
+        "structure": "0-0-80",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "10"
+    },
+    {
+        "slot": "A",
+        "code": "CLL121",
+        "name": "CHEMICAL ENGG. THERMODYNAMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "GAURAV GOEL",
+        "limit": "125"
+    },
+    {
+        "slot": "D",
+        "code": "CLL122",
+        "name": "CHEMICAL REACTION ENGG I",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "DIVESH BHATIA",
+        "limit": "180"
+    },
+    {
+        "slot": "F",
+        "code": "CLL231",
+        "name": "FLUID MECHS. FOR CHEM. ENGINEE",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "JYOTI PHIRANI",
+        "limit": "180"
+    },
+    {
+        "slot": "B",
+        "code": "CLL251",
+        "name": "HEAT TRANSFER FOR CHEMICAL ENG",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "JAYATI SARKAR",
+        "limit": "230"
+    },
+    {
+        "slot": "D",
+        "code": "CLL271",
+        "name": "INTRO TO INDUSTRIAL BIOTECH.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANURAG SINGH RATHORE",
+        "limit": "130"
+    },
+    {
+        "slot": "B",
+        "code": "CLL352",
+        "name": "MASS TRANSFER II",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "ANIL VERMA",
+        "limit": "125"
+    },
+    {
+        "slot": "C",
+        "code": "CLL361",
+        "name": "INSTRUMENTATION AND AUTOMATION",
+        "credit": 2,
+        "structure": "1-0-3",
+        "coordinator": "MANOJKUMAR CHARANDAS RAMTEKE",
+        "limit": "125"
+    },
+    {
+        "slot": "E",
+        "code": "CLL371",
+        "name": "CHEM. PROCESS TECH.& ECONOMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "SREEDEVI UPADHYAYULA",
+        "limit": "125"
+    },
+    {
+        "slot": "B",
+        "code": "CLL475",
+        "name": "SAFETY & HAZARDS IN PROC. IND.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANIL KUMAR SAROHA",
+        "limit": "45"
+    },
+    {
+        "slot": "A",
+        "code": "CLL701",
+        "name": "MODELLING OF TRANSPORT PROCESS",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "PARESH PRAVINCHANDRA CHOKSHI",
+        "limit": "50"
+    },
+    {
+        "slot": "D",
+        "code": "CLL702",
+        "name": "PRINCIPLES OF THERMODYNAMICS,",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "SHANTANU ROY",
+        "limit": "50"
+    },
+    {
+        "slot": "B",
+        "code": "CLL722",
+        "name": "ELECTROCHEM. CONV. & STO. DEV.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANUPAM SHUKLA",
+        "limit": "45"
+    },
+    {
+        "slot": "E",
+        "code": "CLL727",
+        "name": "HETERO. CATALYSIS & CATA. REA.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "KAMAL KISHORE PANT",
+        "limit": "45"
+    },
+    {
+        "slot": "A",
+        "code": "CLL731",
+        "name": "ADVANCED TRANSPORT PHENOMENA",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIVEK VITTHAL BUWA",
+        "limit": "120"
+    },
+    {
+        "slot": "D",
+        "code": "CLL733",
+        "name": "INDUSTRIAL MULTIPHASE REACTORS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RATAN MOHAN",
+        "limit": "100"
+    },
+    {
+        "slot": "B",
+        "code": "CLL735",
+        "name": "DESIGN OF MULTICOMP. SEP. PRO.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUDDHASTWA BASU",
+        "limit": "45"
+    },
+    {
+        "slot": "H",
+        "code": "CLL766",
+        "name": "INTERFACIAL ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.N. BHASKARWAR",
+        "limit": "45"
+    },
+    {
+        "slot": "B",
+        "code": "CLL767",
+        "name": "STRUCTURES & PROP. OF POLYMERS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUDIP KUMAR PATTANAYEK",
+        "limit": "45"
+    },
+    {
+        "slot": "F",
+        "code": "CLL771",
+        "name": "INTRODUCTION TO COMPLEX FLUIDS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIKRAM SINGH",
+        "limit": "45"
+    },
+    {
+        "slot": "E",
+        "code": "CLL772",
+        "name": "TRANS. PHEN. IN COMPLEX FLUIDS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PARESH PRAVINCHANDRA CHOKSHI",
+        "limit": "45"
+    },
+    {
+        "slot": "H",
+        "code": "CLL779",
+        "name": "MOL. BIOTECH. & IN-VITRO DIAG.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "45"
+    },
+    {
+        "slot": "H",
+        "code": "CLL785",
+        "name": "EVOLUTIONARY OPTIMIZATION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MANOJKUMAR CHARANDAS RAMTEKE",
+        "limit": "45"
+    },
+    {
+        "slot": "E",
+        "code": "CLL786",
+        "name": "FINE CHEMICALS TECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJESH KHANNA",
+        "limit": "45"
+    },
+    {
+        "slot": "F",
+        "code": "CLL793",
+        "name": "MEMBRANE SCIENCE & ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S.K. GUPTA",
+        "limit": "45"
+    },
+    {
+        "slot": "E",
+        "code": "CLP302",
+        "name": "CHEMICAL ENGINEERING LAB - II",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "VIKRAM SINGH",
+        "limit": "175"
+    },
+    {
+        "slot": "P",
+        "code": "CLP704",
+        "name": "Technical Communication for Chemical Engineers",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SHALINI GUPTA",
+        "limit": "85"
+    },
+    {
+        "slot": "P",
+        "code": "CLQ301",
+        "name": "SEMINAR COURSE - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SUDDHASTWA BASU",
+        "limit": "35"
+    },
+    {
+        "slot": "P",
+        "code": "CLQ302",
+        "name": "SEMINAR COURSE - II",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "VIVEK VITTHAL BUWA",
+        "limit": "35"
+    },
+    {
+        "slot": "P",
+        "code": "CLV797",
+        "name": "RECENT  ADV. IN CHEMICAL ENGG.",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "ANIL VERMA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "CMD641",
+        "name": "PROJECT PART II",
+        "credit": 10,
+        "structure": "0-0-20",
+        "coordinator": "S.NAGENDRAN",
+        "limit": "55"
+    },
+    {
+        "slot": "P",
+        "code": "CMD807",
+        "name": "MAJOR  PROJECT PART - II",
+        "credit": 9,
+        "structure": "0-0-18",
+        "coordinator": "SHASHANK DEEP",
+        "limit": "25"
+    },
+    {
+        "slot": "D",
+        "code": "CML100",
+        "name": "INTRODUCTION TO CHEMISTRY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "N.G.RAMESH",
+        "limit": "234"
+    },
+    {
+        "slot": "F",
+        "code": "CML521",
+        "name": "MOLECULAR THERMODYNAMICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHASHANK DEEP",
+        "limit": "60"
+    },
+    {
+        "slot": "A",
+        "code": "CML522",
+        "name": "CHEMICAL DYNA. & SURFACE CHEM.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PRAVIN POPINAND INGOLE",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "CML523",
+        "name": "ORGANIC SYNTHESIS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "GHOLAP SHIVAJIRAO LAHU",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "CML524",
+        "name": "TRAN. & INNER TRAN. METAL CHE.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Sayantan Paria",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "CML525",
+        "name": "BASIC ORGANOMETALIC CHEMISTRY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S.NAGENDRAN",
+        "limit": "60"
+    },
+    {
+        "slot": "C",
+        "code": "CML526",
+        "name": "STR. & FUNC. OF CELLULAR BIOM.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "TANMAY DUTTA",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "CML663",
+        "name": "Selected topics in Spectroscopy",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NARAYANAN D.KURUR",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "CML665",
+        "name": "Biophysical Chemistry",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PRAMIT KUMAR CHOWDHURY",
+        "limit": "60"
+    },
+    {
+        "slot": "A",
+        "code": "CML675",
+        "name": "Chemistry of Heterocyclic compounds",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAVI P. SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "D",
+        "code": "CML724",
+        "name": "SYNTHESIS OF INDUSTRIALLY IMPO",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JAI DEO SINGH",
+        "limit": "60"
+    },
+    {
+        "slot": "C",
+        "code": "CML729",
+        "name": "MATERIAL CHARACTERIZATION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.RAMANAN",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "CML737",
+        "name": "APPLIED SPECTROSCOPY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NIDHI JAIN",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "CML738",
+        "name": "APPLICATIONS OF P-BLOCK ELEMEN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANIL JACOB ELIAS",
+        "limit": "60"
+    },
+    {
+        "slot": "K",
+        "code": "CML739",
+        "name": "APPLIED BIOCATALYSIS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUNIL KUMAR KHARE",
+        "limit": "60"
+    },
+    {
+        "slot": "A",
+        "code": "CML740",
+        "name": "CHEMISTRY OF HETEROCYCLIC COMP",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAVI P. SINGH",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "CML801",
+        "name": "MOLECULAR MODELLING AND SIMULA",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "HEMANT KUMAR KASHYAP",
+        "limit": "60"
+    },
+    {
+        "slot": "QP",
+        "code": "CMP100",
+        "name": "CHEMISTRY LABORATORY",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "PRAVIN POPINAND INGOLE",
+        "limit": "232"
+    },
+    {
+        "slot": "QM",
+        "code": "CMP100",
+        "name": "CHEMISTRY LABORATORY",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "PRAVIN POPINAND INGOLE",
+        "limit": "206"
+    },
+    {
+        "slot": "P",
+        "code": "CMP521",
+        "name": "LAB III",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "NALIN PANT",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CMP522",
+        "name": "LAB IV",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "TANMAY DUTTA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CMP728",
+        "name": "INSTRUMENTATION LABORATORY",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SAMEER SAPRA",
+        "limit": "25"
+    },
+    {
+        "slot": "D",
+        "code": "COD300",
+        "name": "DESIGN PROJECT",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "YOGENDRA NATH",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COD310",
+        "name": "MINI PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "COD492",
+        "name": "B.TECH PROJECT PART 1",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "COD494",
+        "name": "B.TECH PROJECT PART 2",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "COD891",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "80"
+    },
+    {
+        "slot": "P",
+        "code": "COD893",
+        "name": "M.TECH PROJECT PARTII",
+        "credit": 14,
+        "structure": "0-0-28",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "COD895",
+        "name": "MSR Project",
+        "credit": 36,
+        "structure": "0-0-72",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "BP",
+        "code": "COL100",
+        "name": "INTRO. TO COMPUTER SCIENCE",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "KOLIN PAUL",
+        "limit": "300"
+    },
+    {
+        "slot": "BM",
+        "code": "COL100",
+        "name": "INTRO. TO COMPUTER SCIENCE",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "MAYA RAMANATH",
+        "limit": "300"
+    },
+    {
+        "slot": "F",
+        "code": "COL106",
+        "name": "DATA STRUCTURES AND ALGORITHMS",
+        "credit": 5,
+        "structure": "3-0-4",
+        "coordinator": "SAROJ KAUSHIK",
+        "limit": "180"
+    },
+    {
+        "slot": "B",
+        "code": "COL216",
+        "name": "COMPUTER ARCHITECTURE",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "ANSHUL KUMAR",
+        "limit": "125"
+    },
+    {
+        "slot": "F",
+        "code": "COL226",
+        "name": "PROGRAMMING LANGUAGES",
+        "credit": 5,
+        "structure": "3-0-4",
+        "coordinator": "SANJIVA PRASAD",
+        "limit": "120"
+    },
+    {
+        "slot": "E",
+        "code": "COL331",
+        "name": "OPERATING SYSTEMS",
+        "credit": 5,
+        "structure": "3-0-4",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "120"
+    },
+    {
+        "slot": "A",
+        "code": "COL352",
+        "name": "INTRO TO AUTOMATA & TH. OF CO.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NAVEEN GARG",
+        "limit": "120"
+    },
+    {
+        "slot": "H",
+        "code": "COL362",
+        "name": "INTRO. TO DATABASE MGMT. SYST.",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "Sayan Ranu",
+        "limit": "80"
+    },
+    {
+        "slot": "C",
+        "code": "COL380",
+        "name": "INTRO. TO PARALLEL & DIS. PRO.",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "SUBODH KUMAR",
+        "limit": "120"
+    },
+    {
+        "slot": "H",
+        "code": "COL632",
+        "name": "INTRODUCTION TO DATA BASESYSTEMS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "Sayan Ranu",
+        "limit": "30"
+    },
+    {
+        "slot": "E",
+        "code": "COL633",
+        "name": "RESOURCE MANAGEMENT IN COMPUTER SYSTEMS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "30"
+    },
+    {
+        "slot": "B",
+        "code": "COL718",
+        "name": "ARCH. OF HIGH PERF. COMPUTERS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "PREETI RANJAN PANDA",
+        "limit": "80"
+    },
+    {
+        "slot": "D",
+        "code": "COL724",
+        "name": "ADVANCED COMPUTER NETWORKS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "HUZUR SARAN",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "COL726",
+        "name": "NUMERICAL ALGORITHMS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "AMIT KUMAR",
+        "limit": "70"
+    },
+    {
+        "slot": "A",
+        "code": "COL728",
+        "name": "COMPILER DESIGN",
+        "credit": 4,
+        "structure": "3-0-3",
+        "coordinator": "SORAV BANSAL",
+        "limit": "30"
+    },
+    {
+        "slot": "H",
+        "code": "COL740",
+        "name": "SOFTWARE ENGINEERING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SURESH CHAND GUPTA",
+        "limit": "95"
+    },
+    {
+        "slot": "AA",
+        "code": "COL772",
+        "name": "NATURAL LANGUAGE PROCESSING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "MAUSAM",
+        "limit": "30"
+    },
+    {
+        "slot": "F",
+        "code": "COL774",
+        "name": "MACHINE LEARNING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "PARAG SINGLA",
+        "limit": "120"
+    },
+    {
+        "slot": "K",
+        "code": "COL781",
+        "name": "COMPUTER GRAPHICS",
+        "credit": 4,
+        "structure": "3-0-3",
+        "coordinator": "PREM KUMAR KALRA",
+        "limit": "90"
+    },
+    {
+        "slot": "H",
+        "code": "COL786",
+        "name": "ADVANCED FUNCTIONAL BRAIN IMG.",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "RAHUL GARG",
+        "limit": "30"
+    },
+    {
+        "slot": "AC",
+        "code": "COL862",
+        "name": "SPL TOPICS IN SOFTWARE SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PARAG SINGLA",
+        "limit": "25"
+    },
+    {
+        "slot": "AB",
+        "code": "COL863",
+        "name": "SPL. TOPICS IN THEO. COMP. SC.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AMITABHA BAGCHI",
+        "limit": "30"
+    },
+    {
+        "slot": "L",
+        "code": "COL867",
+        "name": "SPL. TOPICS IN HIGH SPEED NET.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VINAY JOSEPH RIBEIRO",
+        "limit": "30"
+    },
+    {
+        "slot": "AC",
+        "code": "COL871",
+        "name": "SP. TOP. IN PROG. LAN. & COMP.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Subodh Vishnu Sharma",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COP290",
+        "name": "DESIGN PRACTICES",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SUBHASHIS BANERJEE",
+        "limit": "130"
+    },
+    {
+        "slot": "P",
+        "code": "COP315",
+        "name": "EMBEDDED SYSTEM DESIGN PROJECT",
+        "credit": 4,
+        "structure": "0-1-6",
+        "coordinator": "M. BALAKRISHNAN",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "COQ301",
+        "name": "SEMINAR COURSE - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "AMITABHA BAGCHI",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COQ302",
+        "name": "SEMINAR COURSE - II",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "KOLIN PAUL",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COQ303",
+        "name": "SEMINAR COURSE - III",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SORAV BANSAL",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COQ304",
+        "name": "SEMINAR COURSE - IV",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "S.K. GUPTA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COS310",
+        "name": "INDEPENDENT STUDY (CS)",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "COS799",
+        "name": "Independent Study",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "COV878",
+        "name": "SPECIAL MODULE IN MACHINE LEA.",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "PARAG SINGLA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COV882",
+        "name": "SPECIAL MODULE IN SOFTWARE SY.",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "M. BALAKRISHNAN",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COV883",
+        "name": "SPL. MODULE IN THEO. COMP. SC.",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "NAVEEN GARG",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COV884",
+        "name": "SPL. MODULE IN ARTIFICIAL INT.",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "MAUSAM",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "COV886",
+        "name": "SPECIAL MODULE IN ALGORITHMS",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SANDEEP SEN",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "COV889",
+        "name": "SPECIAL MODULE IN CONCURRENCY",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "Subodh Vishnu Sharma",
+        "limit": "30"
+    },
+    {
+        "slot": "A",
+        "code": "CRD802",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "Prabhu Babu",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CRD811",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "Prabhu Babu",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CRD812",
+        "name": "MAJOR PROJECT PART 2",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "Prabhu Babu",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CRD814",
+        "name": "Major Project-III",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "Prabhu Babu",
+        "limit": "40"
+    },
+    {
+        "slot": "E",
+        "code": "CRL702",
+        "name": "ARCHITECTURES AND ALGORITHMS FOR DSP SYSTEMS",
+        "credit": 4,
+        "structure": "2-0-4",
+        "coordinator": "ARUN KUMAR",
+        "limit": "40"
+    },
+    {
+        "slot": "D",
+        "code": "CRL704",
+        "name": "SENSOR ARRAY SIGNAL PROCESSING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Prabhu Babu",
+        "limit": "18"
+    },
+    {
+        "slot": "J",
+        "code": "CRL706",
+        "name": "Sonars",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJENDRA BAHL",
+        "limit": "20"
+    },
+    {
+        "slot": "A",
+        "code": "CRL712",
+        "name": "RF AND MICROWAVE ACTIVE CIRCUITS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S.K.KOUL",
+        "limit": "25"
+    },
+    {
+        "slot": "C",
+        "code": "CRL722",
+        "name": "RF AND MICROWAVE SOLID STATE DEVICES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SAMARESH DAS",
+        "limit": "50"
+    },
+    {
+        "slot": "B",
+        "code": "CRL724",
+        "name": "RF AND MICROWAVE MEASUREMENT SYSTEM TECHNIQUES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANANJAN BASU",
+        "limit": "40"
+    },
+    {
+        "slot": "D",
+        "code": "CRL732",
+        "name": "SELECTED TOPICS IN RFDT-II",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Pushpapraj Singh",
+        "limit": "70"
+    },
+    {
+        "slot": "P",
+        "code": "CSD310",
+        "name": "MINI PROJECT (CS)",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD411",
+        "name": "MAJOR PROJECT PART 1 (CS)",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD412",
+        "name": "MAJOR PROJECT PART 2 (CS)",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD750",
+        "name": "MINOR PROJECT (CO)",
+        "credit": 4,
+        "structure": "0-1-6",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD851",
+        "name": "MAJOR PROJECT PART 1 (CO)",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD852",
+        "name": "MAJOR PROJECT PART 2 (CO)",
+        "credit": 14,
+        "structure": "0-0-28",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD853",
+        "name": "MAJOR PROJECT PART 1 (CO)",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD854",
+        "name": "MAJOR PROJECT PART 2 (CO)",
+        "credit": 16,
+        "structure": "0-0-32",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD893",
+        "name": "MAJOR PROJECT PART - I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSD894",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SMRUTI RANJAN SARANGI",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CSS310",
+        "name": "INDEPENDENT STUDY (CS)",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "RAGESH JAISWAL",
+        "limit": "40"
+    },
+    {
+        "slot": "R",
+        "code": "CVC772",
+        "name": "SEMINAR IN CONSTRUCTION TECHNO",
+        "credit": 0,
+        "structure": "0-0-2",
+        "coordinator": "KUMAR NEERAJ JHA",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "CVD411",
+        "name": "BTECH PROJECT PART 1",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "BABU J.ALAPPAT",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "CVD412",
+        "name": "BTECH PROJECT PART 2",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "BABU J.ALAPPAT",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "CVD700",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "JAGDISH TELANGRAO SHAHU",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD710",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "TANUSREE CHAKRABORTY",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD720",
+        "name": "MAJOR THESIS PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "GAZALA HABIB",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "CVD721",
+        "name": "MAJOR THESIS PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "GAZALA HABIB",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "CVD756",
+        "name": "MINOR PROJECT IN STRUCTURAL ENGINEERING",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "ABHIJIT GANGULI",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "CVD757",
+        "name": "Major Project Part-I (CES)",
+        "credit": 9,
+        "structure": "0-0-18",
+        "coordinator": "SUPRATIC GUPTA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD758",
+        "name": "Major Project Part-II (CES)",
+        "credit": 9,
+        "structure": "0-0-18",
+        "coordinator": "SUPRATIC GUPTA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD772",
+        "name": "MAJOR PROJECT PART-I (CEC)",
+        "credit": 9,
+        "structure": "0-0-18",
+        "coordinator": "KUMAR NEERAJ JHA",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "CVD773",
+        "name": "MAJOR PROJECT PART-II (CEC)",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "KUMAR NEERAJ JHA",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "CVD777",
+        "name": "MAJOR PROJECT PART-I (CET)",
+        "credit": 9,
+        "structure": "0-0-18",
+        "coordinator": "KUMAR NEERAJ JHA",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "CVD778",
+        "name": "MAJOR PROJECT PART-II (CET)",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "J. UMA MAHESWARI",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "CVD800",
+        "name": "Major Project Part-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "JAGDISH TELANGRAO SHAHU",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD801",
+        "name": "Major Thesis Part-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "JAGDISH TELANGRAO SHAHU",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD810",
+        "name": "Major Project Part-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "TANUSREE CHAKRABORTY",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD811",
+        "name": "Major Project Part-II (cEu)",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "TANUSREE CHAKRABORTY",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD831",
+        "name": "Major Project Part-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SUMEDHA CHAKMA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD832",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SUMEDHA CHAKMA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD853",
+        "name": "Major Project Part-I ",
+        "credit": 9,
+        "structure": "0-0-18",
+        "coordinator": "GEETAM TEWARI",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD854",
+        "name": "Major Project Part-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "GEETAM TEWARI",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVD895",
+        "name": "MSR MAJOR PROJECT",
+        "credit": 36,
+        "structure": "0-0-72",
+        "coordinator": "MANOJ DATTA",
+        "limit": "90"
+    },
+    {
+        "slot": "C",
+        "code": "CVL100",
+        "name": "ENVIRONMENTAL SCIENCE",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "ARVIND KUMAR NEMA",
+        "limit": "400"
+    },
+    {
+        "slot": "B",
+        "code": "CVL212",
+        "name": "ENVIRONMENTAL ENGINEERING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "ARUN KUMAR",
+        "limit": "120"
+    },
+    {
+        "slot": "F",
+        "code": "CVL222",
+        "name": "SOIL MECHANICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VENKATA RAMANA GUNTURI",
+        "limit": "109"
+    },
+    {
+        "slot": "C",
+        "code": "CVL244",
+        "name": "CONSTRUCTION PRACTICES",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "J. UMA MAHESWARI",
+        "limit": "110"
+    },
+    {
+        "slot": "B",
+        "code": "CVL261",
+        "name": "INTRO. TO TRANSPORTATION ENGG.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAMACHANDRA RAO KALAGA",
+        "limit": "124"
+    },
+    {
+        "slot": "E",
+        "code": "CVL281",
+        "name": "HYDRAULICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "SHASHI MATHUR",
+        "limit": "117"
+    },
+    {
+        "slot": "F",
+        "code": "CVL313",
+        "name": "AIR AND NOISE POLLUTION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "GAZALA HABIB",
+        "limit": "40"
+    },
+    {
+        "slot": "D",
+        "code": "CVL342",
+        "name": "STEEL DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUPRATIC GUPTA",
+        "limit": "150"
+    },
+    {
+        "slot": "E",
+        "code": "CVL381",
+        "name": "DESIGN OF HYDRAULIC STRUCTURES",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SUMEDHA CHAKMA",
+        "limit": "150"
+    },
+    {
+        "slot": "H",
+        "code": "CVL382",
+        "name": "GROUNDWATER",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "BHAGU RAM CHAHAR",
+        "limit": "30"
+    },
+    {
+        "slot": "M",
+        "code": "CVL422",
+        "name": "ROCK ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VENKATA RAMANA GUNTURI",
+        "limit": "100"
+    },
+    {
+        "slot": "E",
+        "code": "CVL431",
+        "name": "DESIGN OF FOUN. & RET. STRUCT.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "R. AYOTHIRAMAN",
+        "limit": "100"
+    },
+    {
+        "slot": "H",
+        "code": "CVL443",
+        "name": "PRESTRESSED CON. & IND. STRUC.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ALOK MADAN",
+        "limit": "50"
+    },
+    {
+        "slot": "C",
+        "code": "CVL462",
+        "name": "INTRO. TO INTELLI. TRANS. SYS.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Nezamuddin",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "CVL482",
+        "name": "WATER POWER ENGINEERING",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "SUMEDHA CHAKMA",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "CVL702",
+        "name": "GROUND IMPROVEMENT AND GEOSYNTHETICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "R. AYOTHIRAMAN",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "CVL703",
+        "name": "GEOENVIRONMENTAL ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MANOJ DATTA",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "CVL705",
+        "name": "SLOPES AND RETAINING STRUCTURES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BAPPADITYA MANNA",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "CVL706",
+        "name": "SOIL DYNAMICS AND EARTHQUAKE GEOTECHNICAL ENGG.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JAGDISH TELANGRAO SHAHU",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "CVL712",
+        "name": "SLOPES AND FOUNDATIONS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K.G. SHARMA",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "CVL713",
+        "name": "ANALYSIS AND DESIGN OF UNDERGROUND STRUCTURES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K.G. SHARMA",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "CVL714",
+        "name": "FIELD EXPLORATION AND GEOTECHNICAL PROCESSES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "TANUSREE CHAKRABORTY",
+        "limit": "60"
+    },
+    {
+        "slot": "A",
+        "code": "CVL715",
+        "name": "EXCAVATION METHODS & UNDERGROUND SPACE TECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K.S. RAO",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "CVL721",
+        "name": "SOLID WASTE ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BABU J.ALAPPAT",
+        "limit": "40"
+    },
+    {
+        "slot": "M",
+        "code": "CVL723",
+        "name": "WASTE WATER ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ARUN KUMAR",
+        "limit": "40"
+    },
+    {
+        "slot": "B",
+        "code": "CVL724",
+        "name": "ENVIRONMENTAL SYSTEMS ANALYSIS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ARVIND KUMAR NEMA",
+        "limit": "40"
+    },
+    {
+        "slot": "A",
+        "code": "CVL728",
+        "name": "ENVIRONMENTAL QUALITY MODELING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MUKESH KHARE",
+        "limit": "40"
+    },
+    {
+        "slot": "D",
+        "code": "CVL734",
+        "name": "ADVANCED HYDRAULICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DEO RAJ KAUSHAL",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "CVL735",
+        "name": "FINITE ELEMENT IN WATER RESOU.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "N.K. GARG",
+        "limit": "30"
+    },
+    {
+        "slot": "L",
+        "code": "CVL746",
+        "name": "PUBLIC TRANSPORTATION SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Manoj M",
+        "limit": "45"
+    },
+    {
+        "slot": "A",
+        "code": "CVL760",
+        "name": "THEORY OF CONCRETE STRUCTURES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "GURMAIL S. BENIPAL",
+        "limit": "60"
+    },
+    {
+        "slot": "C",
+        "code": "CVL761",
+        "name": "THEORY OF STEEL STRUCTURES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DIPTI RANJAN SAHOO",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "CVL762",
+        "name": "EARTHQUAKE ANALYSIS AND DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DIPTI RANJAN SAHOO",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "CVL765",
+        "name": "CONCRETE MECHANICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHASHANK BISHNOI",
+        "limit": "100"
+    },
+    {
+        "slot": "D",
+        "code": "CVL769",
+        "name": "DESIGN OF TALL BUILDINGS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.K. NAGPAL",
+        "limit": "90"
+    },
+    {
+        "slot": "D",
+        "code": "CVL774",
+        "name": "CONSTRUCTION CONTRACT MGMT.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "J. UMA MAHESWARI",
+        "limit": "75"
+    },
+    {
+        "slot": "C",
+        "code": "CVL775",
+        "name": "CONSTRUCTION ECONOMICS AND FI",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K. CHANDRASHEKHAR IYER",
+        "limit": "75"
+    },
+    {
+        "slot": "E",
+        "code": "CVL776",
+        "name": "CONSTRUCTION PRACTICES AND EQ",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.K. JAIN",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "CVL778",
+        "name": "BUILDING SERVICES AND MAINTENA",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "B.BHATTACHARJEE",
+        "limit": "40"
+    },
+    {
+        "slot": "B",
+        "code": "CVL779",
+        "name": "FORMWORK FOR CONCRETE STRUCTU",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "KUMAR NEERAJ JHA",
+        "limit": "100"
+    },
+    {
+        "slot": "E",
+        "code": "CVL811",
+        "name": "NUMERICAL AND COMPUTER METHODS IN GEOMECHANICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "TANUSREE CHAKRABORTY",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "CVL825",
+        "name": "FUNDAMENTAL OF AEROSOL:HEALTH AND CLIMATE CHANGE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "GAZALA HABIB",
+        "limit": "40"
+    },
+    {
+        "slot": "F",
+        "code": "CVL830",
+        "name": "GROUNDWATER FLOW AND POLLUTION MODELING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.K.KESHARI",
+        "limit": "30"
+    },
+    {
+        "slot": "C",
+        "code": "CVL832",
+        "name": "HYDROELECTRIC ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAKESH KHOSA",
+        "limit": "30"
+    },
+    {
+        "slot": "A",
+        "code": "CVL833",
+        "name": "WATER RESOURCES SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAKESH KHOSA",
+        "limit": "30"
+    },
+    {
+        "slot": "H",
+        "code": "CVL838",
+        "name": "GEOGRAPHIC INFORMATION SYSTEMS",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "A.K. GOSAIN",
+        "limit": "30"
+    },
+    {
+        "slot": "K",
+        "code": "CVL844",
+        "name": "TRANSPORTATION INFRASTRUCTURE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ARAVIND KRISHNA SWAMY",
+        "limit": "30"
+    },
+    {
+        "slot": "A",
+        "code": "CVL847",
+        "name": "Transportation Economics ",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "GEETAM TEWARI",
+        "limit": "40"
+    },
+    {
+        "slot": "M",
+        "code": "CVL849",
+        "name": "TRAFFIC FLOW MODELLING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAMACHANDRA RAO KALAGA",
+        "limit": "30"
+    },
+    {
+        "slot": "E",
+        "code": "CVL856",
+        "name": "Strengthening and Retrofitting of Structures",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHASHANK BISHNOI",
+        "limit": "40"
+    },
+    {
+        "slot": "J",
+        "code": "CVL859",
+        "name": "Theory of Structural Stability",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "GURMAIL S. BENIPAL",
+        "limit": "40"
+    },
+    {
+        "slot": "D",
+        "code": "CVL861",
+        "name": "ANALYSIS & DESIGN OF M/C FOU.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SURESH BHALLA",
+        "limit": "40"
+    },
+    {
+        "slot": "H",
+        "code": "CVL864",
+        "name": "STRUCTURAL HEALTH MONITORING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SURESH BHALLA",
+        "limit": "40"
+    },
+    {
+        "slot": "B",
+        "code": "CVL872",
+        "name": "INFRASTRUCTURE DEVELOPMENT AND",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K. CHANDRASHEKHAR IYER",
+        "limit": "100"
+    },
+    {
+        "slot": "H",
+        "code": "CVL875",
+        "name": "SUSTAINABLE MATERIALS AND GREE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "B.BHATTACHARJEE",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "CVP222",
+        "name": "SOIL MECHANICS LABORATORY",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "TANUSREE CHAKRABORTY",
+        "limit": "103"
+    },
+    {
+        "slot": "P",
+        "code": "CVP242",
+        "name": "STRUCTURAL ANALYSIS LABORATORY",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "GURMAIL S. BENIPAL",
+        "limit": "103"
+    },
+    {
+        "slot": "P",
+        "code": "CVP261",
+        "name": "TRANSPORTATION ENGG. LABORATOR",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "ARAVIND KRISHNA SWAMY",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "CVP281",
+        "name": "HYDRAULICS LABORATORY",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "DEO RAJ KAUSHAL",
+        "limit": "112"
+    },
+    {
+        "slot": "P",
+        "code": "CVP342",
+        "name": "STRUCTURES & MATERIAL LAB",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SUPRATIC GUPTA",
+        "limit": "150"
+    },
+    {
+        "slot": "P",
+        "code": "CVP730",
+        "name": "SIMULATION LABORATORY-I",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "N.K. GARG",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "CVP731",
+        "name": "SIMULATION LABORATORY-II",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "DHANYA C.T.",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "CVP756",
+        "name": "STRUCTURAL ENGINEERING LAB",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "A.K. JAIN",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CVP771",
+        "name": "CONSTRUCTION TECHNOLOGY LABORA",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "KUMAR NEERAJ JHA",
+        "limit": "40"
+    },
+    {
+        "slot": "R",
+        "code": "CVP800",
+        "name": "GEOENVIRONMENTAL AND GEOTECHNICAL ENGINEERING LAB",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "BAPPADITYA MANNA",
+        "limit": "60"
+    },
+    {
+        "slot": "R",
+        "code": "CVP810",
+        "name": "ROCK MECHANICS LABORATORY-II",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "K.S. RAO",
+        "limit": "60"
+    },
+    {
+        "slot": "Q",
+        "code": "CVQ301",
+        "name": "CIVIL ENGINEERING SEMINAR",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "R. AYOTHIRAMAN",
+        "limit": "150"
+    },
+    {
+        "slot": "P",
+        "code": "CVS754",
+        "name": "INDEPENDENT STUDY",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "RAMACHANDRA RAO KALAGA",
+        "limit": "50"
+    },
+    {
+        "slot": "S",
+        "code": "CVS756",
+        "name": "INDEPENDENT STUDY (CES)",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SHASHANK BISHNOI",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "CYD670",
+        "name": "PROJECT PART II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "S.NAGENDRAN",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "CYD799",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SHASHANK DEEP",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "CYD801",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SHASHANK DEEP",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "CYD802",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SHASHANK DEEP",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "CYS801",
+        "name": "INDEPENDENT STUDY",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "SHASHANK DEEP",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "DID892",
+        "name": "MAJOR PROJECT",
+        "credit": 19,
+        "structure": "0-1-36",
+        "coordinator": "SUMER SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "A",
+        "code": "DIL732",
+        "name": "ADVANCED MATERIALS PROCESSES & DIE DESIGN",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "SUMER SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DIP712",
+        "name": "COMPUTER AIDED PRODUCT DETAILING",
+        "credit": 3,
+        "structure": "1-0-4",
+        "coordinator": "S.K. ATREYA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DIP722",
+        "name": "APPLIED ERGONOMICS",
+        "credit": 2,
+        "structure": "1-0-2",
+        "coordinator": "JYOTI KUMAR",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DIR801",
+        "name": "SUMMER INTERNSHIP",
+        "credit": 0,
+        "structure": "0-0-4",
+        "coordinator": "JYOTI KUMAR",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DSD792",
+        "name": "DESIGN PROJECT 1",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "P.V.MADHUSUDHAN RAO",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DSD801",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "A.L. VYAS",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "DSD802",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "A.L. VYAS",
+        "limit": "18"
+    },
+    {
+        "slot": "E",
+        "code": "DSL712",
+        "name": "ELECTRONIC TECH. FOR SIGNAL CONDITIONING & INTERFA",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "D.T. SHAHANI",
+        "limit": "80"
+    },
+    {
+        "slot": "J",
+        "code": "DSL714",
+        "name": "INSTRUMENT DESIGN AND SIMULATIONS",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "D.T. SHAHANI",
+        "limit": "20"
+    },
+    {
+        "slot": "B",
+        "code": "DSL733",
+        "name": "OPTICAL MATERIALS & OPTICAL TE",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "GUFRAN SAYEED KHAN",
+        "limit": "25"
+    },
+    {
+        "slot": "H",
+        "code": "DSL734",
+        "name": "LASER BASED INSTRUMENTATION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "CHANDRA SHAKHER",
+        "limit": "30"
+    },
+    {
+        "slot": "K",
+        "code": "DSL737",
+        "name": "DISPLAY DEVICES & TECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Satish Kumar Dubey",
+        "limit": "25"
+    },
+    {
+        "slot": "F",
+        "code": "DSL811",
+        "name": "SELECTED TOPICS IN INSTRUMENTATION-I",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.L. VYAS",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "DSP704",
+        "name": "INSTRUMENT TECHNOLOGY LABORATORY-II",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "GUFRAN SAYEED KHAN",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "DSP721",
+        "name": "DESIGN AND INNOVATION METHODS",
+        "credit": 3,
+        "structure": "1-0-4",
+        "coordinator": "SRINIVASAN VENKATARAMAN ",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DSR772",
+        "name": "TRANSPORTATION DESIGN",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "S.K. ATREYA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DSR822",
+        "name": "DESIGN FOR SUSTAINABILITY",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "SUMER SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "DTD899",
+        "name": "DOCTORAL THESIS",
+        "credit": 0,
+        "structure": "0-0-0",
+        "coordinator": "======",
+        "limit": "3000"
+    },
+    {
+        "slot": "P",
+        "code": "ELD411",
+        "name": "B.TECH. PROJECT - I",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "90"
+    },
+    {
+        "slot": "P",
+        "code": "ELD431",
+        "name": "B.TECH. PROJECT - I",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELD450",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD451",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD452",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD453",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD454",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD455",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD456",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD457",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD458",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD459",
+        "name": "BTP Part-II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD780",
+        "name": "MINOR PROJECT",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELD800",
+        "name": "MINOR PROJECT (EEA)",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "S. JANARDHANAN",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ELD801",
+        "name": "MAJOR PROJECT PART I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "Deepak U. Patil",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "ELD802",
+        "name": "MAJOR PROJECT PART II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "Deepak U. Patil",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "ELD810",
+        "name": "MINOR PROJECT (COMMUNICATION E",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SESHAN SRIRANGARAJAN",
+        "limit": "60"
+    },
+    {
+        "slot": "A",
+        "code": "ELD811",
+        "name": "MAJOR PROJECT PART-I (COMMUNIC",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SESHAN SRIRANGARAJAN",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "ELD812",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SESHAN SRIRANGARAJAN",
+        "limit": "50"
+    },
+    {
+        "slot": "A",
+        "code": "ELD831",
+        "name": "MAJOR PROJECT PART-I (INTEGRAT",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "MUKUL SARKAR",
+        "limit": "0"
+    },
+    {
+        "slot": "A",
+        "code": "ELD832",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "MUKUL SARKAR",
+        "limit": "0"
+    },
+    {
+        "slot": "A",
+        "code": "ELD851",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "G.BHUVANESWARI",
+        "limit": "0"
+    },
+    {
+        "slot": "A",
+        "code": "ELD852",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "G.BHUVANESWARI",
+        "limit": "0"
+    },
+    {
+        "slot": "A",
+        "code": "ELD871",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "BIJAYA KETAN PANIGRAHI",
+        "limit": "0"
+    },
+    {
+        "slot": "A",
+        "code": "ELD872",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "BIJAYA KETAN PANIGRAHI",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "ELD880",
+        "name": "Major Project Part-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "90"
+    },
+    {
+        "slot": "P",
+        "code": "ELD881",
+        "name": "Major Project Part II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "ELL100",
+        "name": "INTRO. TO ELECTRICAL ENGG.",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SHOURIBRATA CHATTERJEE",
+        "limit": "450"
+    },
+    {
+        "slot": "B",
+        "code": "ELL201",
+        "name": "DIGITAL ELECTRONICS",
+        "credit": 4,
+        "structure": "3-0-3",
+        "coordinator": "BHASKAR MITRA",
+        "limit": "400"
+    },
+    {
+        "slot": "D",
+        "code": "ELL205",
+        "name": "SIGNALS AND SYSTEMS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "S.D. JOSHI",
+        "limit": "150"
+    },
+    {
+        "slot": "E",
+        "code": "ELL212",
+        "name": "ENGINEERING ELECROMAGNETICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "ANUJ DHAWAN",
+        "limit": "150"
+    },
+    {
+        "slot": "F",
+        "code": "ELL225",
+        "name": "CONTROL ENGINEERING I",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "INDRA NARAYAN KAR",
+        "limit": "150"
+    },
+    {
+        "slot": "A",
+        "code": "ELL231",
+        "name": "POWER ELECTR. & ENERGY DEVICES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MADHUSUDAN SINGH",
+        "limit": "60"
+    },
+    {
+        "slot": "C",
+        "code": "ELL301",
+        "name": "ELECTRICAL & ELECTRONIC INSTR.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHAUNAK SEN",
+        "limit": "50"
+    },
+    {
+        "slot": "F",
+        "code": "ELL303",
+        "name": "POWER ENGINEERING-I",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "BIJAYA KETAN PANIGRAHI",
+        "limit": "130"
+    },
+    {
+        "slot": "E",
+        "code": "ELL316",
+        "name": "INTRODUCTION TO VLSI DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BASABI BHAUMIK",
+        "limit": "90"
+    },
+    {
+        "slot": "B",
+        "code": "ELL332",
+        "name": "ELECTRIC DRIVES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "G.BHUVANESWARI",
+        "limit": "90"
+    },
+    {
+        "slot": "A",
+        "code": "ELL365",
+        "name": "EMBEDDED SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "TAPAN KUMAR GANDHI",
+        "limit": "160"
+    },
+    {
+        "slot": "E",
+        "code": "ELL400",
+        "name": "POWER SYSTEMS PROTECTION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ABHIJIT RAMCHANDRA ABHYANKAR",
+        "limit": "50"
+    },
+    {
+        "slot": "X",
+        "code": "ELL402",
+        "name": "COMPUTER COMMUNICATION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SWADES KUMAR DE",
+        "limit": "90"
+    },
+    {
+        "slot": "J",
+        "code": "ELL409",
+        "name": "MACHINE INTELLIGENCE& LEARNING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "JAYADEVA",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "ELL411",
+        "name": "DIGITAL COMMUNICATIONS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "RANJAN BOSE",
+        "limit": "120"
+    },
+    {
+        "slot": "A",
+        "code": "ELL703",
+        "name": "OPTIMAL CONTROL THEORY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S. JANARDHANAN",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "ELL705",
+        "name": "STOCHASTIC FILTERING AND IDENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MASHUQ-UN-NABI",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "ELL715",
+        "name": "DIGITAL IMAGE PROCESSING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "MONIKA AGGARWAL",
+        "limit": "109"
+    },
+    {
+        "slot": "A",
+        "code": "ELL717",
+        "name": "OPTICAL COMMUNICATION SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DEVI CHADHA",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "ELL718",
+        "name": "STATISTICAL SIGNAL PROCESSING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHANKAR PRAKRIYA",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "ELL719",
+        "name": "DETECTION & ESTIMATION THEORY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SURINDRA PRASAD",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "ELL720",
+        "name": "ADVANCED DIGITAL SIGNAL PROCES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SESHAN SRIRANGARAJAN",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "ELL723",
+        "name": "BROADBAND COMMUNICATION SYSTEM",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VINOD CHANDRA",
+        "limit": "90"
+    },
+    {
+        "slot": "X",
+        "code": "ELL726",
+        "name": "Nanophotonics and Plasmonics",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANUJ DHAWAN",
+        "limit": "50"
+    },
+    {
+        "slot": "C",
+        "code": "ELL730",
+        "name": "I.C. TECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "M.JAGADESH KUMAR",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "ELL731",
+        "name": "MIXED SIGNAL CIRCUIT DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MUKUL SARKAR",
+        "limit": "60"
+    },
+    {
+        "slot": "L",
+        "code": "ELL749",
+        "name": "SEMICONDUCTOR MEMORY DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MUKUL SARKAR",
+        "limit": "60"
+    },
+    {
+        "slot": "M",
+        "code": "ELL752",
+        "name": "ELECTRIC DRIVE SYSTEM",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAMKRISHAN MAHESHWARI",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "ELL769",
+        "name": "Electrical Systems for Construction Industries ",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "G.BHUVANESWARI",
+        "limit": "90"
+    },
+    {
+        "slot": "D",
+        "code": "ELL776",
+        "name": "ADVANCED POWER SYSTEM OPTIMIZA",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "P.R. BIJWE",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "ELL777",
+        "name": "POWER SYSTEM OPERATION AND CON",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NILANJAN SENROY",
+        "limit": "0"
+    },
+    {
+        "slot": "M",
+        "code": "ELL778",
+        "name": "DYNAMIC MODELLING AND CONTROL",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUKUMAR MISHRA",
+        "limit": "60"
+    },
+    {
+        "slot": "A",
+        "code": "ELL783",
+        "name": "OPERATING SYSTEMS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "120"
+    },
+    {
+        "slot": "C",
+        "code": "ELL784",
+        "name": "INTRODUCTION TO MACHINE LEARNI",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "50"
+    },
+    {
+        "slot": "D",
+        "code": "ELL786",
+        "name": "Multimedia Systems",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BREJESH LALL",
+        "limit": "90"
+    },
+    {
+        "slot": "J",
+        "code": "ELL791",
+        "name": "NEURAL SYSTEMS AND LEARNING MA",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "JAYADEVA",
+        "limit": "0"
+    },
+    {
+        "slot": "AC",
+        "code": "ELL796",
+        "name": "SIGNALS AND SYSTEMS IN BIOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUMEET AGARWAL",
+        "limit": "0"
+    },
+    {
+        "slot": "M",
+        "code": "ELL800",
+        "name": "NUMERICAL LINEAR ALGEBRA",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Deepak U. Patil",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "ELL802",
+        "name": "ADAPTIVE AND LEARNING CONTROL",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHUBHENDU BHASIN",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "ELL814",
+        "name": "WIRELESS OPTICAL COMMUNICATION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "V.K. JAIN",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "ELL815",
+        "name": "MIMO WIRELESS COMMUNICATIONS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MANAV BHATNAGAR",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "ELL817",
+        "name": "Access Networks",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Abhishek Dixit",
+        "limit": "50"
+    },
+    {
+        "slot": "X1",
+        "code": "ELL821",
+        "name": "SELECTED TOPICS IN COMMUNICATI",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SAIF KHAN MOHAMMED",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "ELL822",
+        "name": "SELECTED TOPICS IN COMMUNICATI",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JUN BAE SEO",
+        "limit": "0"
+    },
+    {
+        "slot": "X",
+        "code": "ELL823",
+        "name": "Selected Topics in Information Processing-I ",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Lalan Kumar",
+        "limit": "0"
+    },
+    {
+        "slot": "F",
+        "code": "ELL824",
+        "name": "Selected Topics in Information Processing - II",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "HARSHAN JAGADEESH ",
+        "limit": "0"
+    },
+    {
+        "slot": "B",
+        "code": "ELL850",
+        "name": "DIGITAL CONTROL OF POWER ELECT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BHIM SINGH",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "ELL851",
+        "name": "COMPUTER AIDED DESIGN OF ELECT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AMIT KUMAR JAIN",
+        "limit": "0"
+    },
+    {
+        "slot": "X",
+        "code": "ELL856",
+        "name": "ADVANCED TOPICS IN POWER ELECT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MUMMADI VEERACHARY",
+        "limit": "0"
+    },
+    {
+        "slot": "X1",
+        "code": "ELL880",
+        "name": "SPECIAL TOPICS IN COMPUTERS 1",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "50"
+    },
+    {
+        "slot": "X1",
+        "code": "ELL881",
+        "name": "Special Topics in Computers-II",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "TAPAN KUMAR GANDHI",
+        "limit": "0"
+    },
+    {
+        "slot": "M",
+        "code": "ELL888",
+        "name": "ADVANCED MACHINE LEARNING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PRATHOSH A.P. ",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "ELP201",
+        "name": "DIGITAL ELECTRONICS LABORATORY",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "BHASKAR MITRA",
+        "limit": "400"
+    },
+    {
+        "slot": "P",
+        "code": "ELP203",
+        "name": "ELECTROMECHANICS LABORATORY",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "G.BHUVANESWARI",
+        "limit": "150"
+    },
+    {
+        "slot": "P",
+        "code": "ELP302",
+        "name": "POWER ELECTRONICS LABORATORY",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "MUMMADI VEERACHARY",
+        "limit": "120"
+    },
+    {
+        "slot": "R",
+        "code": "ELP305",
+        "name": "DESIGN AND SYSTEM LABORATORY",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "S.M.K. RAHMAN",
+        "limit": "180"
+    },
+    {
+        "slot": "D",
+        "code": "ELP311",
+        "name": "COMMUNICATION ENGINEERING LAB.",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "BREJESH LALL",
+        "limit": "150"
+    },
+    {
+        "slot": "S",
+        "code": "ELP720",
+        "name": "Telecommunication Networks Laboratory ",
+        "credit": 3,
+        "structure": "0-1-4",
+        "coordinator": "SUBRAT KAR",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "ELP721",
+        "name": "EMBEDDED TELECOMMUNICATION SYS",
+        "credit": 3,
+        "structure": "0-1-4",
+        "coordinator": "SUBRAT KAR",
+        "limit": "1"
+    },
+    {
+        "slot": "P",
+        "code": "ELP725",
+        "name": "WIRELESS COMMUNICATION LABORAT",
+        "credit": 3,
+        "structure": "0-1-4",
+        "coordinator": "RANJAN BOSE",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELP736",
+        "name": "PHYSICAL DESIGN LABORATORY",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SHOURIBRATA CHATTERJEE",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELP780",
+        "name": "Software Lab ",
+        "credit": 3,
+        "structure": "0-1-4",
+        "coordinator": "SUBRAT KAR",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "ELP782",
+        "name": "NETWORKS LABORATORY",
+        "credit": 3,
+        "structure": "0-1-4",
+        "coordinator": "SWADES KUMAR DE",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "ELP801",
+        "name": "ADVANCED CONTROL LABORATORY",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "MASHUQ-UN-NABI",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELP832",
+        "name": "IEC LABORATORY-II",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "JAYADEVA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELP852",
+        "name": "ELECTRICAL DRIVES LABORATORY",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "BHIM SINGH",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELP853",
+        "name": "DSP BASED CONTROL OF POWER ELE",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "MUMMADI VEERACHARY",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELP871",
+        "name": "POWER SYSTEM LAB 2",
+        "credit": 3,
+        "structure": "0-1-4",
+        "coordinator": "SUKUMAR MISHRA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELQ301",
+        "name": "SEMINAR COURSE - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "S. JANARDHANAN",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELS310",
+        "name": "INDEPENDENT STUDY (EE1)",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "ANUJ DHAWAN",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ELS330",
+        "name": "INDEPENDENT STUDY (EE3)",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "ANUJ DHAWAN",
+        "limit": "60"
+    },
+    {
+        "slot": "X1",
+        "code": "ELV720",
+        "name": "SPECIAL MODULE IN COMMUNICATIO",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "H.M. GUPTA",
+        "limit": "60"
+    },
+    {
+        "slot": "X1",
+        "code": "ELV780",
+        "name": "SPECIAL MODULE IN COMPUTERS",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "60"
+    },
+    {
+        "slot": "X1",
+        "code": "ELV781",
+        "name": "Special Module in Information Processing -I",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SUMANTRA DUTTA ROY",
+        "limit": "50"
+    },
+    {
+        "slot": "A",
+        "code": "ES742",
+        "name": "ECONOMICS&FINANC.OF RENEWENERGY SYS.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "T.C. KANDPAL",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "ESL300",
+        "name": "SELF-ORGANIZING DYNAMICAL SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MRS. R. UMA",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "ESL330",
+        "name": "ENERGY, ECOLOGY AND ENVIRONMENT",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "Satyananda Kar",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "ESL340",
+        "name": "NON CONVENTIONAL SOURCES OF ENERGY",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "K Ravi Kumar",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "ESL350",
+        "name": "ENERGY CONSERVATION MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S K Tyagi",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "ESL360",
+        "name": "DIRECT ENERGY CONVERSION",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "Debaprasad Sahu",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "ESL710",
+        "name": "ENERGY,ECOLOGY AND ENVIRONMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K.A. SUBRAMANIAN",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "ESL714",
+        "name": "POWER PLANT ENGG.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K.A. SUBRAMANIAN",
+        "limit": "60"
+    },
+    {
+        "slot": "M",
+        "code": "ESL718",
+        "name": "POWER GENERATION ,TRANSMISSION & DISTRIBUTION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "T.S.BHATTI",
+        "limit": "60"
+    },
+    {
+        "slot": "E",
+        "code": "ESL720",
+        "name": "ENERGY CONSERVATION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ASHU VERMA",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "ESL730",
+        "name": "DIRECT ENERGY CONVERSION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Sandeep Kumar Pathak",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "ESL732",
+        "name": "BIOCONVERSION AND PROCESSING OF WASTE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DR. M.G. DASTIDAR",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "ESL734",
+        "name": "NUCLEAR ENERGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Debaprasad Sahu",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "ESL737",
+        "name": "PLASMA BASED MATERIALS PROCESSING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Satyananda Kar",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "ESL755",
+        "name": "SOLAR PHOTOVOLTAIC DEVICES AND SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Supravat Karak",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "ESL871",
+        "name": "ADVANCAED FUSION ENERGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MRS. R. UMA",
+        "limit": "60"
+    },
+    {
+        "slot": "AD",
+        "code": "ESL880",
+        "name": "Solar Thermal Power Generation",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "K Ravi Kumar",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "ESP713",
+        "name": "ENERGY LABORATORY",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "DIBAKAR RAKSHIT",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ301",
+        "name": "Seminar Course on Renewable Energy",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "T.C. KANDPAL",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ302",
+        "name": "Seminar Course on Energy Efficiency",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "S K Tyagi",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ303",
+        "name": "Seminar Course Electrical Energy Conservation",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "ASHU VERMA",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ304",
+        "name": "Seminar Course on Plasma Science and Technology",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "Debaprasad Sahu",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ305",
+        "name": "Seminar Course on Energy and Climate Change",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "D.K. SHARMA",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ306",
+        "name": "Seminar Course on Bioenergy",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "DR. M.G. DASTIDAR",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ307",
+        "name": "Seminar Course on Nuclear Energy and Futuristic Use",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "MRS. R. UMA",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ308",
+        "name": "Seminar Course on Energy-Environment Interaction",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "K Ravi Kumar",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "ESQ309",
+        "name": "Seminar Course on Alternative Fuels for Transportation",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "K.A. SUBRAMANIAN",
+        "limit": "25"
+    },
+    {
+        "slot": "J",
+        "code": "HSL703",
+        "name": "Perspectives on climate change: Implications for policy",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "UPASNA SHARMA",
+        "limit": "30"
+    },
+    {
+        "slot": "B",
+        "code": "HSL713",
+        "name": "Macroeconomics",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DEBASIS MONDAL",
+        "limit": "30"
+    },
+    {
+        "slot": "X4",
+        "code": "HSL731",
+        "name": "What is a Text",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MILIND WAKANKAR",
+        "limit": "30"
+    },
+    {
+        "slot": "X6",
+        "code": "HSL743",
+        "name": "Language Acquisition, Teaching and Assessment",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PAROMA SANYAL",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "HSL745",
+        "name": "Psycholinguistics",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJAKRISHNAN RAJKUMAR",
+        "limit": "30"
+    },
+    {
+        "slot": "X2",
+        "code": "HSL751",
+        "name": "Critical Reading in Philosophical Texts",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BIJOY H.BORUAH",
+        "limit": "30"
+    },
+    {
+        "slot": "X0",
+        "code": "HSL762",
+        "name": "Social issues:Analysis and Policy",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PURNIMA SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "M",
+        "code": "HSL800",
+        "name": "Research Writing",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MILIND WAKANKAR",
+        "limit": "600"
+    },
+    {
+        "slot": "X5",
+        "code": "HSL835",
+        "name": "Modern Indian Theatre",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANGELIE MULTANI",
+        "limit": "30"
+    },
+    {
+        "slot": "X9",
+        "code": "HSL841",
+        "name": "Minimalist Architecture of Grammar",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PRITHA CHANDRA",
+        "limit": "30"
+    },
+    {
+        "slot": "X1",
+        "code": "HSL860",
+        "name": "Advanced Topics in Philosophy",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DIVYA DWIVEDI",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "HSL863",
+        "name": "Emotion and Cognition ",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VARSHA SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "X3",
+        "code": "HSL883",
+        "name": "History and Revolution",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SIMONA SAWHNEY",
+        "limit": "30"
+    },
+    {
+        "slot": "X",
+        "code": "HUC722",
+        "name": "SEMINAR",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SARBESWAR SAHOO",
+        "limit": "140"
+    },
+    {
+        "slot": "E",
+        "code": "HUL211",
+        "name": "INTRODUCTION TO ECONOMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "REETIKA KHERA",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "HUL211",
+        "name": "INTRODUCTION TO ECONOMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "ANKUSH AGRAWAL",
+        "limit": "75"
+    },
+    {
+        "slot": "M",
+        "code": "HUL212",
+        "name": "MICROECONOMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "DEBASIS MONDAL",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "HUL213",
+        "name": "MACRO ECONOMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "JAYAN JOSE THOMAS",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "HUL231",
+        "name": "AN INTRODUCTION TO LITERATURE",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "MILIND WAKANKAR",
+        "limit": "75"
+    },
+    {
+        "slot": "M",
+        "code": "HUL239",
+        "name": "Indian Fiction in English",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "RUKMINI BHAYA NAIR",
+        "limit": "75"
+    },
+    {
+        "slot": "J",
+        "code": "HUL239",
+        "name": "Indian Fiction in English",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "STUTI KHANNA",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "HUL242",
+        "name": "FUNDAMENTALS OF LANGUAGE SCIENCES",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "PRITHA CHANDRA",
+        "limit": "225"
+    },
+    {
+        "slot": "A",
+        "code": "HUL253",
+        "name": "MORAL LITERACY AND MORAL CHOICES",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "DIVYA DWIVEDI",
+        "limit": "75"
+    },
+    {
+        "slot": "J",
+        "code": "HUL258",
+        "name": "SOCIAL AND POLITICAL PHILOSOPH",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "ARUDRA VENKATA BURRA",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "HUL261",
+        "name": "Introduction to Psychology",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "VARSHA SINGH",
+        "limit": "75"
+    },
+    {
+        "slot": "J",
+        "code": "HUL261",
+        "name": "Introduction to Psychology",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "Yashpal Ashokrao Jogdand",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "HUL265",
+        "name": "Theories of Personality",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "KAMLESH SINGH",
+        "limit": "75"
+    },
+    {
+        "slot": "M",
+        "code": "HUL271",
+        "name": "Introduction to Sociology",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "SARBESWAR SAHOO",
+        "limit": "75"
+    },
+    {
+        "slot": "M",
+        "code": "HUL272",
+        "name": "INTRODUCTION TO THE SOCIOLOGY OF INDIA",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "VIBHA ARORA",
+        "limit": "75"
+    },
+    {
+        "slot": "M",
+        "code": "HUL275",
+        "name": "ENVIRONMENT; DEVELOPMENT AND SOCIETY",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "NAVEEN K THAYYIL ",
+        "limit": "75"
+    },
+    {
+        "slot": "M",
+        "code": "HUL286",
+        "name": "SOCIAL SCIENCE APPROACHES TO DEVELOPMENT",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "UPASNA SHARMA",
+        "limit": "75"
+    },
+    {
+        "slot": "M",
+        "code": "HUL315",
+        "name": "ECONOMETRIC METHODS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SOURABH BIKAS PAUL",
+        "limit": "39"
+    },
+    {
+        "slot": "M",
+        "code": "HUL316",
+        "name": "INDIAN ECONOMIC PROBLEMS AND POLICIES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JAYAN JOSE THOMAS",
+        "limit": "39"
+    },
+    {
+        "slot": "A",
+        "code": "HUL320",
+        "name": "SELECTED TOPICS IN ECONOMICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "V. UPADHYAY",
+        "limit": "39"
+    },
+    {
+        "slot": "M",
+        "code": "HUL333",
+        "name": "THEATRE OF THE ABSURD",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANGELIE MULTANI",
+        "limit": "39"
+    },
+    {
+        "slot": "M",
+        "code": "HUL356",
+        "name": "BUDDHISM ACROSS TIME AND PLACE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BHARATI PURI",
+        "limit": "39"
+    },
+    {
+        "slot": "A",
+        "code": "HUL358",
+        "name": "PHILOSOPHY OF MIND",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "C.A.TOMY",
+        "limit": "39"
+    },
+    {
+        "slot": "A",
+        "code": "HUL359",
+        "name": "METAPHYSICS OF THE SELF",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BIJOY H.BORUAH",
+        "limit": "39"
+    },
+    {
+        "slot": "M",
+        "code": "HUL360",
+        "name": "SELECTED TOPICS IN PHILOSOPHY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ARUDRA VENKATA BURRA",
+        "limit": "39"
+    },
+    {
+        "slot": "J",
+        "code": "HUL362",
+        "name": "ORGANIZATIONAL BEHAVIOUR",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PURNIMA SINGH",
+        "limit": "39"
+    },
+    {
+        "slot": "M",
+        "code": "HUL371",
+        "name": "Science, technology and Society",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AMBUJ D. SAGAR",
+        "limit": "39"
+    },
+    {
+        "slot": "J",
+        "code": "HUL374",
+        "name": "NATIONS AND NATIONALISM",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "FARHANA IBRAHIM",
+        "limit": "39"
+    },
+    {
+        "slot": "M",
+        "code": "HUL381",
+        "name": "Mind, Machines and Language",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJAKRISHNAN RAJKUMAR",
+        "limit": "39"
+    },
+    {
+        "slot": "X6",
+        "code": "HUL701",
+        "name": "SOCIOLOGICAL THEORY",
+        "credit": 3,
+        "structure": "2-1-0",
+        "coordinator": "SARBESWAR SAHOO",
+        "limit": "30"
+    },
+    {
+        "slot": "X9",
+        "code": "HUL735",
+        "name": "RESEARCH METHODS IN ECONOMICS",
+        "credit": 2,
+        "structure": "1-0-2",
+        "coordinator": "REETIKA KHERA",
+        "limit": "30"
+    },
+    {
+        "slot": "X7",
+        "code": "HUL754",
+        "name": "SCIENCE  TECHNOLOGY AND SOCIETY",
+        "credit": 3,
+        "structure": "2-1-0",
+        "coordinator": "NAVEEN K THAYYIL ",
+        "limit": "30"
+    },
+    {
+        "slot": "B",
+        "code": "HUL755",
+        "name": "Advanced Econometrics",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SOURABH BIKAS PAUL",
+        "limit": "30"
+    },
+    {
+        "slot": "X7",
+        "code": "HUV748",
+        "name": "Data Analysis for Psycholinguistics using R",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "SAMAR HUSAIN",
+        "limit": "30"
+    },
+    {
+        "slot": "X8",
+        "code": "HUV751",
+        "name": "Current Trends in Psycholinguistics",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SAMAR HUSAIN",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "ITL702",
+        "name": "DIAGNOSTIC MAINTENANCE AND MONITORING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "NARESH TANDON",
+        "limit": "25"
+    },
+    {
+        "slot": "F",
+        "code": "ITL711",
+        "name": "RELIABILITY AVAILABILITY AND MAINTAINABILITY(RAM)",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "O.P. GANDHI",
+        "limit": "30"
+    },
+    {
+        "slot": "B",
+        "code": "ITL714",
+        "name": "FAILURE ANALYSIS AND REPAIR",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "DEEPAK KUMAR",
+        "limit": "25"
+    },
+    {
+        "slot": "C",
+        "code": "ITL730",
+        "name": "LUBRICANTS",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "JAYASHREE BIJWE",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "JID802",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "DEEPAK KUMAR",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "JND801",
+        "name": "MAJOR PROJECT PART-1",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "K.A. SUBRAMANIAN",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "JND802",
+        "name": "MAJOR PROJECT II (JEN)",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "K.A. SUBRAMANIAN",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "JOD802",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "R.K. VARSHNEY",
+        "limit": "25"
+    },
+    {
+        "slot": "X",
+        "code": "JOL793",
+        "name": "Selected Topics-I",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Vivek Venkataraman",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "JOP792",
+        "name": "FIBER OPTICS AND OPTICAL COMMUNICATION LAB.II",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "R.K. VARSHNEY",
+        "limit": "24"
+    },
+    {
+        "slot": "P",
+        "code": "JPD802",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "BHABANI KUMAR SATAPATHY",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "JRD301",
+        "name": "MINI PROJECT IN ROBOTICS",
+        "credit": 7,
+        "structure": "0-0-14",
+        "coordinator": "SUBIR KUMAR SAHA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "JRD310",
+        "name": "MINI PROJECT IN ROBOTICS",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "SANTANU CHAUDHURY",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "JSD801",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "K.A. SUBRAMANIAN",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "JSD802",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "K.A. SUBRAMANIAN",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "JTD792",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SAIF KHAN MOHAMMED",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "JVD809",
+        "name": "MINOR PROJECT",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "ANSHUL KUMAR",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "JVD811",
+        "name": "MAJOR PROJECT PART-I",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "JAYADEVA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "JVD812",
+        "name": "MAJOR PROJECT PART-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "JAYADEVA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "JVS802",
+        "name": "INDEPENDENT STUDY",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "ANSHUL KUMAR",
+        "limit": "1"
+    },
+    {
+        "slot": "P",
+        "code": "MAD851",
+        "name": "MAJOR PROJECT PART 1 (MT)",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MAD852",
+        "name": "MAJOR PROJECT PART 2 (MT)",
+        "credit": 14,
+        "structure": "0-0-28",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MAD853",
+        "name": "MAJOR PROJECT PART 1 (MT)",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MAD854",
+        "name": "MAJOR PROJECT PART 2 (MT)",
+        "credit": 16,
+        "structure": "0-0-32",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MCD310",
+        "name": "Mini Project",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "ASHISH KAMALAKAR DARPE",
+        "limit": "100"
+    },
+    {
+        "slot": "P",
+        "code": "MCD411",
+        "name": "B.TECH.PROJECT",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "SUBODH VASANT MODAK",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "MCD412",
+        "name": "B.TECH.PROJECT - II",
+        "credit": 7,
+        "structure": "0-0-14",
+        "coordinator": "SUBODH VASANT MODAK",
+        "limit": "70"
+    },
+    {
+        "slot": "P",
+        "code": "MCD812",
+        "name": "Major Project Part II (Thermal Engineering)",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SUBHRA DATTA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "MCD832",
+        "name": "Major Project Part II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "R.K.PANDEY",
+        "limit": "30"
+    },
+    {
+        "slot": "A",
+        "code": "MCD862",
+        "name": "Major Project Part-2",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "NOMESH BHOJKUMAR BOLIA",
+        "limit": "30"
+    },
+    {
+        "slot": "X",
+        "code": "MCD882",
+        "name": "MAJOR PROJECT PART-2",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "SUNIL JHA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "MCD895",
+        "name": "MAJOR PROJECT",
+        "credit": 40,
+        "structure": "0-0-80",
+        "coordinator": "AMIT GUPTA",
+        "limit": "30"
+    },
+    {
+        "slot": "F",
+        "code": "MCL131",
+        "name": "MANUFACTURING PROCESSES I",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SIVANANDAM ARAVINDAN",
+        "limit": "110"
+    },
+    {
+        "slot": "H",
+        "code": "MCL132",
+        "name": "METAL FORMING AND PRESS TOOLS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DIGAVALLI RAVI KUMAR",
+        "limit": "70"
+    },
+    {
+        "slot": "F",
+        "code": "MCL133",
+        "name": "NEAR NET SHAPE MANUFACTURING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NARESH BHATNAGAR",
+        "limit": "75"
+    },
+    {
+        "slot": "H",
+        "code": "MCL136",
+        "name": "MATERIAL REMOVAL PROCESSES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUDARSAN GHOSH",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "MCL142",
+        "name": "THERMAL SC. FOR ELE. ENGINEERS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUBHRA DATTA",
+        "limit": "125"
+    },
+    {
+        "slot": "E",
+        "code": "MCL201",
+        "name": "MECHANICAL ENGG. DRAWING",
+        "credit": 3,
+        "structure": "2-0-3",
+        "coordinator": "R.K.PANDEY",
+        "limit": "146"
+    },
+    {
+        "slot": "B",
+        "code": "MCL212",
+        "name": "CONTROL THEORY & APPLICATIONS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "JAYANTA KUMAR DUTT",
+        "limit": "150"
+    },
+    {
+        "slot": "B",
+        "code": "MCL241",
+        "name": "ENERGY SYSTEMS AND TECH.",
+        "credit": 4,
+        "structure": "3-0-1",
+        "coordinator": "P.M.V.SUBBARAO",
+        "limit": "90"
+    },
+    {
+        "slot": "E",
+        "code": "MCL311",
+        "name": "CAD & FINITE ELEMENT ANALYSIS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "DEVENDRA KUMAR DUBEY",
+        "limit": "165"
+    },
+    {
+        "slot": "F",
+        "code": "MCL321",
+        "name": "AUTOMOTIVE SYSTEMS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SATINDER PAUL SINGH",
+        "limit": "50"
+    },
+    {
+        "slot": "A",
+        "code": "MCL331",
+        "name": "Micro and Nano Manufacturing",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SIVANANDAM ARAVINDAN",
+        "limit": "100"
+    },
+    {
+        "slot": "J",
+        "code": "MCL343",
+        "name": "INTRODUCTION TO COMBUSTION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Mayank Kumar",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "MCL344",
+        "name": "REFRIGERATION & AIR-CONDITION.",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SANJEEV JAIN",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "MCL345",
+        "name": "RECIPROCATING INTERN. COM. EN.",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "M.R. RAVI",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "MCL347",
+        "name": "INTERMEDIATE HEAT TRANSFER",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Debabrata Dasgupta",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "MCL361",
+        "name": "MANUFACTURING SYSTEM DESIGN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Varun Ramamohan",
+        "limit": "150"
+    },
+    {
+        "slot": "D",
+        "code": "MCL421",
+        "name": "AUTOMOTIVE STRUCTURAL DESIGN",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "ANOOP CHAWLA",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "MCL443",
+        "name": "ELECTROCHEMICAL ENERGY SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AMIT GUPTA",
+        "limit": "25"
+    },
+    {
+        "slot": "C",
+        "code": "MCL705",
+        "name": "EXPERIMENTAL METHODS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SANGEETA KOHLI",
+        "limit": "65"
+    },
+    {
+        "slot": "B",
+        "code": "MCL730",
+        "name": "Designing with Advance Materials",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "NARESH VARMA DATLA",
+        "limit": "40"
+    },
+    {
+        "slot": "A",
+        "code": "MCL733",
+        "name": "Vibraitons and Noise Engineering",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "ASHISH KAMALAKAR DARPE",
+        "limit": "40"
+    },
+    {
+        "slot": "D",
+        "code": "MCL736",
+        "name": "Automotive Design",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "ANOOP CHAWLA",
+        "limit": "40"
+    },
+    {
+        "slot": "B",
+        "code": "MCL738",
+        "name": "Dynamics of Multibody Systems",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "SUBIR KUMAR SAHA",
+        "limit": "40"
+    },
+    {
+        "slot": "C",
+        "code": "MCL741",
+        "name": "Control Engineering",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SUBODH VASANT MODAK",
+        "limit": "25"
+    },
+    {
+        "slot": "F",
+        "code": "MCL743",
+        "name": "Plant Equipment Design",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SRINIVASAN SAN IYER ",
+        "limit": "40"
+    },
+    {
+        "slot": "E",
+        "code": "MCL745",
+        "name": "ROBOTICS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SUDIPTO MUKHERJEE",
+        "limit": "40"
+    },
+    {
+        "slot": "J",
+        "code": "MCL747",
+        "name": "Design of Precision Machines",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "JITENDRA PRASAD KHATAIT",
+        "limit": "40"
+    },
+    {
+        "slot": "H",
+        "code": "MCL748",
+        "name": "Tribological System Design",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "R.K.PANDEY",
+        "limit": "40"
+    },
+    {
+        "slot": "D",
+        "code": "MCL754",
+        "name": "OPERATIONS PLANNING AND CONTRO",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NOMESH BHOJKUMAR BOLIA",
+        "limit": "30"
+    },
+    {
+        "slot": "K",
+        "code": "MCL759",
+        "name": "ENTREPRENEURSHIP",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "P.V.MADHUSUDHAN RAO",
+        "limit": "40"
+    },
+    {
+        "slot": "E",
+        "code": "MCL770",
+        "name": "Stochastic Modeling and Simulation",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NOMESH BHOJKUMAR BOLIA",
+        "limit": "40"
+    },
+    {
+        "slot": "H",
+        "code": "MCL771",
+        "name": "VALUE ENGINEERING AND LIFE CYC",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANAND DEV GUPTA",
+        "limit": "40"
+    },
+    {
+        "slot": "A",
+        "code": "MCL778",
+        "name": "DESIGN AND METALLURGY OF WELDE",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SUNIL PANDEY",
+        "limit": "40"
+    },
+    {
+        "slot": "B",
+        "code": "MCL782",
+        "name": "COMPUTATIONAL METHODS",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "B. PREMACHANDRAN",
+        "limit": "30"
+    },
+    {
+        "slot": "F",
+        "code": "MCL784",
+        "name": "COMPUTER AIDED MANUFACTURING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SUNIL JHA",
+        "limit": "35"
+    },
+    {
+        "slot": "E",
+        "code": "MCL786",
+        "name": "METROLOGY",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "P.VENKATESWARA RAO",
+        "limit": "30"
+    },
+    {
+        "slot": "A",
+        "code": "MCL813",
+        "name": "Computational Heat Transfer",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "B. PREMACHANDRAN",
+        "limit": "35"
+    },
+    {
+        "slot": "F",
+        "code": "MCL814",
+        "name": "Convective Heat Transfer ",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Bahni Ray",
+        "limit": "25"
+    },
+    {
+        "slot": "J",
+        "code": "MCL821",
+        "name": "Radiation Heat Transfer",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PRABAL TALUKDAR",
+        "limit": "25"
+    },
+    {
+        "slot": "E",
+        "code": "MCL823",
+        "name": "Thermal Design",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "PRABAL TALUKDAR",
+        "limit": "25"
+    },
+    {
+        "slot": "D",
+        "code": "MCL825",
+        "name": "Design of Wind Power Farms",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "P.M.V.SUBBARAO",
+        "limit": "40"
+    },
+    {
+        "slot": "H",
+        "code": "MCL826",
+        "name": "INTRODUCTION TO MICROFLUIDICS",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "SUPREET SINGH BAHGA",
+        "limit": "25"
+    },
+    {
+        "slot": "F",
+        "code": "MCL865",
+        "name": "Advanced Operation Research",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "KIRAN SETH",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "MCP100",
+        "name": "ENGG. VISUALIZATION & COMM.",
+        "credit": 2,
+        "structure": "0-0-3",
+        "coordinator": "SUJEET KUMAR SINHA",
+        "limit": "453"
+    },
+    {
+        "slot": "P",
+        "code": "MCP101",
+        "name": "PRODUCT REALIZATION BY MANF.",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "PULAK MOHAN PANDEY",
+        "limit": "441"
+    },
+    {
+        "slot": "DP",
+        "code": "MCP261",
+        "name": "INDUSTRIAL ENGINEERING LAB - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "Varun Ramamohan",
+        "limit": "50"
+    },
+    {
+        "slot": "E",
+        "code": "MCP301",
+        "name": "MECHANICAL ENGINEERING LAB - I",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "SUDIPTO MUKHERJEE",
+        "limit": "75"
+    },
+    {
+        "slot": "CP",
+        "code": "MCP331",
+        "name": "MANUFACTURING LABORATORY-II",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "P.VENKATESWARA RAO",
+        "limit": "100"
+    },
+    {
+        "slot": "CP",
+        "code": "MCP332",
+        "name": "PRODUCTION ENGINEERING LAB- II",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SUNIL PANDEY",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "MCQ301",
+        "name": "SEMINAR COURSE - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "NARESH VARMA DATLA",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "MCQ302",
+        "name": "SEMINAR COURSE - II",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SUBHRA DATTA",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "MCQ303",
+        "name": "SEMINAR COURSE - III",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SUNIL JHA",
+        "limit": "25"
+    },
+    {
+        "slot": "K",
+        "code": "MEC410",
+        "name": "COLLOQUIUM (ME)",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "NARESH BHATNAGAR",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MED422",
+        "name": "MAJOR PROJECT PART 2 (PE)",
+        "credit": 8,
+        "structure": "0-0-14",
+        "coordinator": "SUBODH VASANT MODAK",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "MSD792",
+        "name": "Minor Project",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SHVETA SINGH",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "MSD890",
+        "name": "MAJOR PROJECT (UNIQUE CORE)",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SHVETA SINGH",
+        "limit": "115"
+    },
+    {
+        "slot": "P",
+        "code": "MSD891",
+        "name": "MAJOR PROJECT (UNIQUE CORE)",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SHVETA SINGH",
+        "limit": "115"
+    },
+    {
+        "slot": "P",
+        "code": "MSD892",
+        "name": "MAJOR PROJECT (UNIQUE CORE)",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "SHVETA SINGH",
+        "limit": "91"
+    },
+    {
+        "slot": "M",
+        "code": "MSL301",
+        "name": "ORGANIZATION AND PEOPLE MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "80"
+    },
+    {
+        "slot": "A",
+        "code": "MSL303",
+        "name": "MARKETING MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MAHIM SAGAR",
+        "limit": "80"
+    },
+    {
+        "slot": "T",
+        "code": "MSL703",
+        "name": "Management of Technology Transfer and Absorption",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUSHIL",
+        "limit": "91"
+    },
+    {
+        "slot": "B1",
+        "code": "MSL705",
+        "name": "HRM SYSTEMS",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "65"
+    },
+    {
+        "slot": "A1",
+        "code": "MSL705",
+        "name": "HRM SYSTEMS",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "65"
+    },
+    {
+        "slot": "R1",
+        "code": "MSL705",
+        "name": "HRM SYSTEMS",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "91"
+    },
+    {
+        "slot": "A",
+        "code": "MSL706",
+        "name": "BUSINESS LAWS",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "MANMOHAN PRASAD GUPTA",
+        "limit": "115"
+    },
+    {
+        "slot": "S",
+        "code": "MSL706",
+        "name": "BUSINESS LAWS",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "MANMOHAN PRASAD GUPTA",
+        "limit": "91"
+    },
+    {
+        "slot": "T",
+        "code": "MSL708",
+        "name": "FINANCIAL MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SHVETA SINGH",
+        "limit": "91"
+    },
+    {
+        "slot": "D",
+        "code": "MSL708",
+        "name": "FINANCIAL MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Neeru Chaudhry",
+        "limit": "65"
+    },
+    {
+        "slot": "F",
+        "code": "MSL708",
+        "name": "FINANCIAL MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "P.K.JAIN",
+        "limit": "65"
+    },
+    {
+        "slot": "AC",
+        "code": "MSL710",
+        "name": "Creative Problem Solving",
+        "credit": 3,
+        "structure": "3-3-3",
+        "coordinator": "MANMOHAN PRASAD GUPTA",
+        "limit": "55"
+    },
+    {
+        "slot": "D",
+        "code": "MSL711",
+        "name": "STRATEGIC MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SANJAY DHIR",
+        "limit": "65"
+    },
+    {
+        "slot": "F",
+        "code": "MSL711",
+        "name": "STRATEGIC MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SANJAY DHIR",
+        "limit": "65"
+    },
+    {
+        "slot": "E",
+        "code": "MSL713",
+        "name": "INFORMATION SYSTEMS MANAGEMENT",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "MANMOHAN PRASAD GUPTA",
+        "limit": "65"
+    },
+    {
+        "slot": "AA",
+        "code": "MSL713",
+        "name": "INFORMATION SYSTEMS MANAGEMENT",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "P. VIGNESWARA ILAVARASAN",
+        "limit": "65"
+    },
+    {
+        "slot": "S",
+        "code": "MSL713",
+        "name": "INFORMATION SYSTEMS MANAGEMENT",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "ARPAN KUMAR KAR",
+        "limit": "91"
+    },
+    {
+        "slot": "K",
+        "code": "MSL720",
+        "name": "MACROECONOMIC ENV. OF BUSINESS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SEEMA SHARMA",
+        "limit": "65"
+    },
+    {
+        "slot": "E",
+        "code": "MSL720",
+        "name": "MACROECONOMIC ENV. OF BUSINESS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SEEMA SHARMA",
+        "limit": "65"
+    },
+    {
+        "slot": "U",
+        "code": "MSL721",
+        "name": "Econometrics",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AMLENDU KUMAR DUBEY",
+        "limit": "80"
+    },
+    {
+        "slot": "AD",
+        "code": "MSL723",
+        "name": "TELECOM SYSTEMS MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MAHIM SAGAR",
+        "limit": "65"
+    },
+    {
+        "slot": "AC",
+        "code": "MSL727",
+        "name": "Interpersonal Behavior & Team Dynamics",
+        "credit": 1,
+        "structure": "1-0-1",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "55"
+    },
+    {
+        "slot": "H",
+        "code": "MSL728",
+        "name": "INTERNATIONAL TELECOM MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAVI SHANKAR",
+        "limit": "65"
+    },
+    {
+        "slot": "B2",
+        "code": "MSL733",
+        "name": "Organization Theory",
+        "credit": 1,
+        "structure": "1-0-1",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "55"
+    },
+    {
+        "slot": "Q1",
+        "code": "MSL733",
+        "name": "Organization Theory",
+        "credit": 1,
+        "structure": "1-0-1",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "65"
+    },
+    {
+        "slot": "Q",
+        "code": "MSL740",
+        "name": "QUANTITATIVE METHODS IN MGMT.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SURYA PRAKASH SINGH",
+        "limit": "91"
+    },
+    {
+        "slot": "AB",
+        "code": "MSL745",
+        "name": "OPERATIONS MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DR.JITENDRA MADAAN",
+        "limit": "65"
+    },
+    {
+        "slot": "J",
+        "code": "MSL745",
+        "name": "OPERATIONS MANAGEMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DR.JITENDRA MADAAN",
+        "limit": "65"
+    },
+    {
+        "slot": "R2",
+        "code": "MSL780",
+        "name": "MANAGERIAL ECONOMICS",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "AMLENDU KUMAR DUBEY",
+        "limit": "91"
+    },
+    {
+        "slot": "B",
+        "code": "MSL802",
+        "name": "MGMT. OF INTELLECTUAL PR. RIG.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUDHIR KUMAR JAIN",
+        "limit": "80"
+    },
+    {
+        "slot": "Q2",
+        "code": "MSL807",
+        "name": "SEL. TOPICS IN STRATEGIC MGMT",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SUSHIL",
+        "limit": "60"
+    },
+    {
+        "slot": "T1",
+        "code": "MSL814",
+        "name": "DATA VISUALIZATION",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "ARPAN KUMAR KAR",
+        "limit": "60"
+    },
+    {
+        "slot": "U",
+        "code": "MSL838",
+        "name": "IT CONSULTING AND PRACTICE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ARPAN KUMAR KAR",
+        "limit": "60"
+    },
+    {
+        "slot": "S",
+        "code": "MSL840",
+        "name": "MANUFACTURING STRATEGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SURYA PRAKASH SINGH",
+        "limit": "60"
+    },
+    {
+        "slot": "R",
+        "code": "MSL860",
+        "name": "SOCIAL MEDIA AND BUSINESS PRACTICES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "P. VIGNESWARA ILAVARASAN",
+        "limit": "60"
+    },
+    {
+        "slot": "R",
+        "code": "MSL863",
+        "name": "Advertising and Sales Promotion Management",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "HARISH CHAUDHRY",
+        "limit": "60"
+    },
+    {
+        "slot": "T",
+        "code": "MSL865",
+        "name": "Sales Management",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "HARISH CHAUDHRY",
+        "limit": "60"
+    },
+    {
+        "slot": "Q1",
+        "code": "MSL870",
+        "name": "CORPORATE GOVERNANCE",
+        "credit": 1,
+        "structure": "1-0-1",
+        "coordinator": "SHVETA SINGH",
+        "limit": "60"
+    },
+    {
+        "slot": "R1",
+        "code": "MSL871",
+        "name": "Banking and Financial Services",
+        "credit": 1,
+        "structure": "1-0-1",
+        "coordinator": "SMITA KASHIRAMKA",
+        "limit": "60"
+    },
+    {
+        "slot": "AB",
+        "code": "MSL873",
+        "name": "Security Analysis & Portfolio Management",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SURENDRA SINGH YADAV",
+        "limit": "60"
+    },
+    {
+        "slot": "R2",
+        "code": "MSL874",
+        "name": "Indian Financial System",
+        "credit": 1,
+        "structure": "1-0-1",
+        "coordinator": "SMITA KASHIRAMKA",
+        "limit": "60"
+    },
+    {
+        "slot": "S",
+        "code": "MSL875",
+        "name": "International Financial Management",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SURENDRA SINGH YADAV",
+        "limit": "60"
+    },
+    {
+        "slot": "U",
+        "code": "MSL879",
+        "name": "CURRENT AND EMERGING ISSUES IN FINANCE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Neeru Chaudhry",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "MST894",
+        "name": "SOCIAL  SECTOR ATTACHMENT",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SHUCHI SINHA",
+        "limit": "116"
+    },
+    {
+        "slot": "J",
+        "code": "MSV804",
+        "name": "SELECTED TOPICS IN OPERATIONS MANAGEMENT",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "RAVI SHANKAR",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "MSV815",
+        "name": "CASE STUDY TEACHING & WRITING",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "MAHIM SAGAR",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "MTD350",
+        "name": "MINI PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "Viswanathan Puthan Veedu",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "MTD421",
+        "name": "B.TECH. PROJECT",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "Vikas Vikram Singh",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "MTD701",
+        "name": "PROJECT I",
+        "credit": 5,
+        "structure": "0-0-10",
+        "coordinator": "ANIMA NAGAR",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MTD702",
+        "name": "PROJECT 2",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "ANIMA NAGAR",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "MTD851",
+        "name": "MAJOR PROJECT PARTI",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MTD852",
+        "name": "MAJOR PROJECT PARTII",
+        "credit": 16,
+        "structure": "0-0-32",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "60"
+    },
+    {
+        "slot": "A",
+        "code": "MTD853",
+        "name": "Major Project Part-I",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "10"
+    },
+    {
+        "slot": "P",
+        "code": "MTD854",
+        "name": "Major Project Part-II",
+        "credit": 18,
+        "structure": "0-0-36",
+        "coordinator": "AMIT PRIYADARSHI",
+        "limit": "60"
+    },
+    {
+        "slot": "C",
+        "code": "MTL100",
+        "name": "CALCULUS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "HARISH KUMAR",
+        "limit": "500"
+    },
+    {
+        "slot": "D",
+        "code": "MTL101",
+        "name": "LINEAR ALGEBRA & DIFFE. EQUA.",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "N.SHRAVAN KUMAR",
+        "limit": "500"
+    },
+    {
+        "slot": "E",
+        "code": "MTL102",
+        "name": "DIFFERENTIAL EQUATIONS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "V.V.K. SRINIVAS KUMAR",
+        "limit": "150"
+    },
+    {
+        "slot": "D",
+        "code": "MTL103",
+        "name": "OPTIMIZATION METHODS & APPL.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Vikas Vikram Singh",
+        "limit": "140"
+    },
+    {
+        "slot": "D",
+        "code": "MTL106",
+        "name": "PROBABILITY & STOCHASTIC PRO.",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "S.DHARMARAJA",
+        "limit": "150"
+    },
+    {
+        "slot": "D",
+        "code": "MTL108",
+        "name": "INTRODUCTION TO STATISTICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "APARNA MEHRA",
+        "limit": "150"
+    },
+    {
+        "slot": "F",
+        "code": "MTL122",
+        "name": "REAL AND COMPLEX ANALYSIS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "RAJENDRA KUMAR SHARMA",
+        "limit": "100"
+    },
+    {
+        "slot": "F",
+        "code": "MTL390",
+        "name": "STATISTICAL METHODS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "NILADRI CHATTERJEE",
+        "limit": "70"
+    },
+    {
+        "slot": "K",
+        "code": "MTL411",
+        "name": "FUNCTIONAL ANALYSIS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANIMA NAGAR",
+        "limit": "75"
+    },
+    {
+        "slot": "J",
+        "code": "MTL506",
+        "name": "COMPLEX ANALYSIS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "A. TRIPATHI",
+        "limit": "75"
+    },
+    {
+        "slot": "C",
+        "code": "MTL507",
+        "name": "TOPOLOGY",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "SUBIMAN KUNDU",
+        "limit": "75"
+    },
+    {
+        "slot": "B",
+        "code": "MTL508",
+        "name": "MATHEMATICAL PROGRAMMING",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "S.CHANDRA SEKHARA RAO",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "MTL509",
+        "name": "NUMERICAL  ANALYSIS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "Kamana Porwal",
+        "limit": "75"
+    },
+    {
+        "slot": "E",
+        "code": "MTL510",
+        "name": "MEASURE AND INTEGRATION",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "Viswanathan Puthan Veedu",
+        "limit": "75"
+    },
+    {
+        "slot": "B",
+        "code": "MTL625",
+        "name": "PRINCIPLES OF OPTIMIZATION TH.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Vikas Vikram Singh",
+        "limit": "40"
+    },
+    {
+        "slot": "AD",
+        "code": "MTL725",
+        "name": "STOCHASTIC PROCESSES & ITS APP",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S.DHARMARAJA",
+        "limit": "40"
+    },
+    {
+        "slot": "AC",
+        "code": "MTL732",
+        "name": "FINANCIAL MATHEMATICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "APARNA MEHRA",
+        "limit": "80"
+    },
+    {
+        "slot": "AA",
+        "code": "MTL735",
+        "name": "ADVANCED NUMBER THEORY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A. TRIPATHI",
+        "limit": "25"
+    },
+    {
+        "slot": "C",
+        "code": "MTL739",
+        "name": "REPRESENTATION OF FINITE GROUP",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJENDRA KUMAR SHARMA",
+        "limit": "20"
+    },
+    {
+        "slot": "J",
+        "code": "MTL742",
+        "name": "OPERATOR THEORY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Viswanathan Puthan Veedu",
+        "limit": "40"
+    },
+    {
+        "slot": "M",
+        "code": "MTL745",
+        "name": "ADVANCED MATRIX THEORY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S.CHANDRA SEKHARA RAO",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "MTL746",
+        "name": "METHODS OF APPLIED MATHEMATICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "V.V.K. SRINIVAS KUMAR",
+        "limit": "60"
+    },
+    {
+        "slot": "AC",
+        "code": "MTL751",
+        "name": "SYMBOLIC DYNAMICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANIMA NAGAR",
+        "limit": "40"
+    },
+    {
+        "slot": "AD",
+        "code": "MTL755",
+        "name": "ALGEBRAIC GEOMETRY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RITUMONI SARMA",
+        "limit": "40"
+    },
+    {
+        "slot": "M",
+        "code": "MTL776",
+        "name": "GRAPH ALGORITHMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BHAWANI SANKAR PANDA",
+        "limit": "60"
+    },
+    {
+        "slot": "B",
+        "code": "MTL782",
+        "name": "DATA MINING",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "BHAWANI SANKAR PANDA",
+        "limit": "75"
+    },
+    {
+        "slot": "AD",
+        "code": "MTL785",
+        "name": "NATURAL LANGUAGE PROCESSING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NILADRI CHATTERJEE",
+        "limit": "50"
+    },
+    {
+        "slot": "AB",
+        "code": "MTL792",
+        "name": "MODERN METH. IN PAR. DIFF. EQ.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "KONIJETI SREENADH",
+        "limit": "30"
+    },
+    {
+        "slot": "E",
+        "code": "MTL874",
+        "name": "Analysis",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUBIMAN KUNDU",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "MTP290",
+        "name": "COMPUTING LABORATORY",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "Kamana Porwal",
+        "limit": "75"
+    },
+    {
+        "slot": "P",
+        "code": "NCN100",
+        "name": "NCC",
+        "credit": 0,
+        "structure": "0-0-0",
+        "coordinator": "BREJESH LALL",
+        "limit": "146"
+    },
+    {
+        "slot": "P",
+        "code": "NEN100",
+        "name": "PROFE. ETHICS  & SOCIAL RESP.",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "SANGEETA KOHLI",
+        "limit": "90"
+    },
+    {
+        "slot": "P",
+        "code": "NEN101",
+        "name": "PROFE. ETHICS &SOCIAL RESP.-2",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "VAMSI KRISHNA KOMARALA",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "NLN101",
+        "name": "LANGUAGE & WRITING SKILL-2",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "PAROMA SANYAL",
+        "limit": "600"
+    },
+    {
+        "slot": "P",
+        "code": "NPN100",
+        "name": "NATIONAL SPORTS ORGANISATION",
+        "credit": 0,
+        "structure": "0-0-0",
+        "coordinator": "BISHWAJIT KUNDU",
+        "limit": "1494"
+    },
+    {
+        "slot": "P",
+        "code": "NSN100",
+        "name": "NSS",
+        "credit": 0,
+        "structure": "0-0-0",
+        "coordinator": "RAJESH PRASAD",
+        "limit": "1924"
+    },
+    {
+        "slot": "B",
+        "code": "PTL702",
+        "name": "POLYMER PROCESSING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.K. GHOSH",
+        "limit": "50"
+    },
+    {
+        "slot": "M",
+        "code": "PTL706",
+        "name": "POLYMER TESTING & PROPERTIES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BHABANI KUMAR SATAPATHY",
+        "limit": "30"
+    },
+    {
+        "slot": "D",
+        "code": "PTL709",
+        "name": "POLYMER TECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SAMPA SAHA",
+        "limit": "30"
+    },
+    {
+        "slot": "E",
+        "code": "PTL711",
+        "name": "ENGG.PLASTICS & SPECIALITY POLYMER",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Bijay Prakash Tripathi",
+        "limit": "30"
+    },
+    {
+        "slot": "F",
+        "code": "PTL712",
+        "name": "POLYMER COMPOSITES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "LEENA NEBHANI",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "PTL716",
+        "name": "RUBBER TECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JOSEMON JACOB",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "PTP720",
+        "name": "POLYMER ENGINEERING LAB",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "BHABANI KUMAR SATAPATHY",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "PYD411",
+        "name": "PROJECT-I",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "RAJENDRA SINGH DHAKA",
+        "limit": "70"
+    },
+    {
+        "slot": "P",
+        "code": "PYD412",
+        "name": "Major Project Part II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "RAJENDRA SINGH DHAKA",
+        "limit": "70"
+    },
+    {
+        "slot": "P",
+        "code": "PYD414",
+        "name": "PROJECT III",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "RAJENDRA SINGH DHAKA",
+        "limit": "70"
+    },
+    {
+        "slot": "P",
+        "code": "PYD561",
+        "name": "PROJECT I",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "A.K. SHUKLA",
+        "limit": "50"
+    },
+    {
+        "slot": "P",
+        "code": "PYD562",
+        "name": "PROJECT II",
+        "credit": 6,
+        "structure": "0-0-12",
+        "coordinator": "A.K. SHUKLA",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "PYD802",
+        "name": "Major Project Part-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "PINTU DAS",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "PYD852",
+        "name": "Major Project Part-II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "P.SENTHILKUMARAN",
+        "limit": "30"
+    },
+    {
+        "slot": "A",
+        "code": "PYL100",
+        "name": "ELECTROMAGNETIC WAVES&QUA.MEC.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Rohit Narula",
+        "limit": "500"
+    },
+    {
+        "slot": "H",
+        "code": "PYL102",
+        "name": "PRINCIPLES OF ELECT. MATERIALS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "PINTU DAS",
+        "limit": "180"
+    },
+    {
+        "slot": "E",
+        "code": "PYL111",
+        "name": "ELECTRODYNAMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "HITENDRA KUMAR MALIK",
+        "limit": "100"
+    },
+    {
+        "slot": "A",
+        "code": "PYL112",
+        "name": "QUANTUM MECHANICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "AJIT KUMAR",
+        "limit": "100"
+    },
+    {
+        "slot": "J",
+        "code": "PYL114",
+        "name": "SOLID STATE PHYSICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "PANKAJ SRIVASTAVA",
+        "limit": "80"
+    },
+    {
+        "slot": "F",
+        "code": "PYL202",
+        "name": "STATISTICAL PHYSICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "SUJIN B.BABU",
+        "limit": "80"
+    },
+    {
+        "slot": "D",
+        "code": "PYL204",
+        "name": "COMPUTATIONAL PHYSICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "H.C. GUPTA",
+        "limit": "80"
+    },
+    {
+        "slot": "E",
+        "code": "PYL302",
+        "name": "NUCLEAR SCIENCE & ENGINEERING",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A.K. SHUKLA",
+        "limit": "50"
+    },
+    {
+        "slot": "D",
+        "code": "PYL312",
+        "name": "SEMICONDUCTOR OPTOELECTRONICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "M.R. SHENOY",
+        "limit": "50"
+    },
+    {
+        "slot": "B",
+        "code": "PYL313",
+        "name": "FOURIER OPTICS & HOLOGRAPHY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JOBY JOSEPH",
+        "limit": "50"
+    },
+    {
+        "slot": "E",
+        "code": "PYL552",
+        "name": "ELECTRODYNAMICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "V.K. TRIPATHY",
+        "limit": "70"
+    },
+    {
+        "slot": "C",
+        "code": "PYL556",
+        "name": "QUANTUM MECHANICS II",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SANKALPA GHOSH",
+        "limit": "70"
+    },
+    {
+        "slot": "F",
+        "code": "PYL558",
+        "name": "STATISTICAL MECHANICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "VARSHA BANERJEE",
+        "limit": "70"
+    },
+    {
+        "slot": "D",
+        "code": "PYL560",
+        "name": "APPLIED OPTICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "ARUN KUMAR",
+        "limit": "70"
+    },
+    {
+        "slot": "A",
+        "code": "PYL563",
+        "name": "SOLID STATE PHYSICS",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "PRANABA KISHOR MUDULI",
+        "limit": "70"
+    },
+    {
+        "slot": "K",
+        "code": "PYL653",
+        "name": "SEMICONDUCTOR ELECTRONICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JITENDRA PRATAP SINGH",
+        "limit": "50"
+    },
+    {
+        "slot": "J",
+        "code": "PYL704",
+        "name": "SC. & TECHNOLOGY OF THIN FILMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "A K Tyagi",
+        "limit": "70"
+    },
+    {
+        "slot": "E",
+        "code": "PYL705",
+        "name": "NANOSTRUCTURED MATERIALS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BODH RAJ",
+        "limit": "70"
+    },
+    {
+        "slot": "D",
+        "code": "PYL707",
+        "name": "CHARACTERISATION TEC. FOR MAT.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MUKESH CHANDER",
+        "limit": "70"
+    },
+    {
+        "slot": "H",
+        "code": "PYL725",
+        "name": "SURFACE PHYSICS AND ANALYSIS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJENDRA SINGH DHAKA",
+        "limit": "70"
+    },
+    {
+        "slot": "K",
+        "code": "PYL726",
+        "name": "SEMICONDUCTOR DEVICE TECHNOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "G.B. REDDY",
+        "limit": "50"
+    },
+    {
+        "slot": "M",
+        "code": "PYL727",
+        "name": "ENERGY MATERIALS AND DEVICES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "NEERAJ KHARE",
+        "limit": "70"
+    },
+    {
+        "slot": "F",
+        "code": "PYL728",
+        "name": "QUANTUM HETEROSTRUCTURES",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "AMARTYA SENGUPTA",
+        "limit": "50"
+    },
+    {
+        "slot": "AD",
+        "code": "PYL729",
+        "name": "Nano probe Techniques",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "JITENDRA PRATAP SINGH",
+        "limit": "50"
+    },
+    {
+        "slot": "K",
+        "code": "PYL741",
+        "name": "FIELD THEORY & QUANTUM ELECTR.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AMRUTA MISHRA",
+        "limit": "80"
+    },
+    {
+        "slot": "M",
+        "code": "PYL742",
+        "name": "GEN. RELATIVITY & INTRO. ASTR.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "V.RAVISHANKAR",
+        "limit": "80"
+    },
+    {
+        "slot": "A",
+        "code": "PYL743",
+        "name": "GROUP THEORY & ITS APPLICATION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "V.RAVISHANKAR",
+        "limit": "50"
+    },
+    {
+        "slot": "D",
+        "code": "PYL747",
+        "name": "NON-LINEAR OPTICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SUNIL KUMAR",
+        "limit": "70"
+    },
+    {
+        "slot": "A",
+        "code": "PYL748",
+        "name": "QUANTUM OPTICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JOYEE GHOSH",
+        "limit": "60"
+    },
+    {
+        "slot": "H",
+        "code": "PYL751",
+        "name": "OPTICAL SOURCES, PHOTOMETRY AN",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DALIP SINGH MEHTA",
+        "limit": "50"
+    },
+    {
+        "slot": "L",
+        "code": "PYL752",
+        "name": "Laser Systems and Applications",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "GADDAM VIJAYA PRAKASH",
+        "limit": "70"
+    },
+    {
+        "slot": "B",
+        "code": "PYL754",
+        "name": "Fourier Optics and Holography",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "JOBY JOSEPH",
+        "limit": "70"
+    },
+    {
+        "slot": "C",
+        "code": "PYL757",
+        "name": "STATISTICAL & QUANTUM OPTICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Bhaskar Kanseri",
+        "limit": "50"
+    },
+    {
+        "slot": "F",
+        "code": "PYL760",
+        "name": "BIOMEDICAL OPTICS & BIO-PHOTO.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Pradeep Kumar Gupta",
+        "limit": "70"
+    },
+    {
+        "slot": "J",
+        "code": "PYL761",
+        "name": "LIQUID CRYSTALS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ALOKA SINHA",
+        "limit": "50"
+    },
+    {
+        "slot": "M",
+        "code": "PYL770",
+        "name": "ULTRA-FAST OPTICS & APPLICATI.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "R.K. SONI",
+        "limit": "70"
+    },
+    {
+        "slot": "K",
+        "code": "PYL772",
+        "name": "Plasmonic Sensors",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "B.D. GUPTA",
+        "limit": "70"
+    },
+    {
+        "slot": "E",
+        "code": "PYL792",
+        "name": "OPTICAL ELECTRONICS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "R.K. VARSHNEY",
+        "limit": "70"
+    },
+    {
+        "slot": "B",
+        "code": "PYL800",
+        "name": "NUM. & COMP. METH. IN RESEARCH",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANURAG SHARMA",
+        "limit": "60"
+    },
+    {
+        "slot": "QP",
+        "code": "PYP100",
+        "name": "PHYSICS LABORATORY",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "NEERAJ KHARE",
+        "limit": "250"
+    },
+    {
+        "slot": "QM",
+        "code": "PYP100",
+        "name": "PHYSICS LABORATORY",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "KEDAR BHALCHANDRA KHARE",
+        "limit": "250"
+    },
+    {
+        "slot": "P",
+        "code": "PYP212",
+        "name": "ENGG. PHYSICS LABORATORY II",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SUNIL KUMAR",
+        "limit": "70"
+    },
+    {
+        "slot": "P",
+        "code": "PYP222",
+        "name": "ENGINEERING PHYSICS LAB. - IV",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "R.K. SONI",
+        "limit": "90"
+    },
+    {
+        "slot": "P",
+        "code": "PYP562",
+        "name": "LABORATORY II",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "P.SENTHILKUMARAN",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "PYP702",
+        "name": "Solid State Materials Laboratory-II ",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "RAJENDRA SINGH",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "PYP762",
+        "name": "Advanced Optics Laboratory ",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "JOBY JOSEPH",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "PYP764",
+        "name": "Advanced Optical Workshop",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "GUFRAN SAYEED KHAN",
+        "limit": "40"
+    },
+    {
+        "slot": "P",
+        "code": "PYS300",
+        "name": "INDEPENDENT STUDY",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "SANTANU GHOSH",
+        "limit": "95"
+    },
+    {
+        "slot": "P",
+        "code": "RDD750",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "HARIPRASAD P.",
+        "limit": "30"
+    },
+    {
+        "slot": "J",
+        "code": "RDL700",
+        "name": "BIOMAS PRODUCTION",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SATYAWATI SHARMA",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "RDL701",
+        "name": "RURAL INDUSTRIALISATION POLICES PROGRAMMES AND CASE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJENDRA PRASAD",
+        "limit": "100"
+    },
+    {
+        "slot": "F",
+        "code": "RDL710",
+        "name": "RURAL INDIA AND PLANNING FOR DEVELOPMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Vivek Kumar",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "RDL722",
+        "name": "RURAL ENERGY SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIRENDRA KUMAR VIJAY",
+        "limit": "100"
+    },
+    {
+        "slot": "M",
+        "code": "RDL726",
+        "name": "HERBAL,MEDICINAL ANDAROMATIC PRODUCTS",
+        "credit": 3,
+        "structure": "2-0-2",
+        "coordinator": "S.N.NAIK",
+        "limit": "25"
+    },
+    {
+        "slot": "X",
+        "code": "RDL730",
+        "name": "TECHNOLOGY ALTERNATIVES  FOR RURAL DEVELOPMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIJAYARAGHAVAN M. CHARIAR",
+        "limit": "75"
+    },
+    {
+        "slot": "B",
+        "code": "RDL740",
+        "name": "TECHNOLOGY OF UTILIZATION OF WASTELANDS & WEEDS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ANUSHREE MALIK",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "RDL760",
+        "name": "FOOD QUALITY AND SAFETY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SANTOSH",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "RDP750",
+        "name": "BIOMASS LABORATORY",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "SATYAWATI SHARMA",
+        "limit": "20"
+    },
+    {
+        "slot": "X",
+        "code": "RDQ301",
+        "name": "SEMINAR COURSE - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "JATINDRA KUMAR SAHU",
+        "limit": "30"
+    },
+    {
+        "slot": "X",
+        "code": "RDQ302",
+        "name": "SEMINAR COURSE - II",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "S.N.NAIK",
+        "limit": "30"
+    },
+    {
+        "slot": "X",
+        "code": "RDQ303",
+        "name": "SEMINAR COURSE - III",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "VIJAYARAGHAVAN M. CHARIAR",
+        "limit": "30"
+    },
+    {
+        "slot": "X",
+        "code": "RDQ304",
+        "name": "SEMINAR COURSE-IV",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "HARIPRASAD P.",
+        "limit": "30"
+    },
+    {
+        "slot": "X",
+        "code": "RDQ305",
+        "name": "SEMINAR COURSE-V",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "Kavya Dashora",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "SBC795",
+        "name": "GRADUATE STUDENT RESEARCH SEMINAR",
+        "credit": 0,
+        "structure": "0-0-2",
+        "coordinator": "CHINMOY SANKAR DEY",
+        "limit": "25"
+    },
+    {
+        "slot": "P",
+        "code": "SBD301",
+        "name": "MINI PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "ARCHHANA CHUGH",
+        "limit": "10"
+    },
+    {
+        "slot": "C",
+        "code": "SBL100",
+        "name": "INTRO. TO BIOLOGY FOR ENGINEER",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "TAPAN KUMAR CHAUDHURI",
+        "limit": "550"
+    },
+    {
+        "slot": "F",
+        "code": "SBL201",
+        "name": "HIGH-DIMENSIONAL BIOLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ASHOK KUMAR PATEL",
+        "limit": "70"
+    },
+    {
+        "slot": "M",
+        "code": "SBL701",
+        "name": "BIOMETRY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ADITYA MITTAL",
+        "limit": "70"
+    },
+    {
+        "slot": "E",
+        "code": "SBL704",
+        "name": "HUMAN VIROLOGY",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "VIVEKANANDAN PERUMAL",
+        "limit": "70"
+    },
+    {
+        "slot": "F",
+        "code": "SBL707",
+        "name": "BACTERIAL PATHOGENESIS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MANIDIPA BANERJEE",
+        "limit": "60"
+    },
+    {
+        "slot": "C",
+        "code": "SBL720",
+        "name": "GENOME AND HEALTHCARE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BISHWAJIT KUNDU",
+        "limit": "70"
+    },
+    {
+        "slot": "P",
+        "code": "SBP200",
+        "name": "INTRODUCTION TO PRACTICAL MODERN BIOLOGY",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "ADITYA MITTAL",
+        "limit": "20"
+    },
+    {
+        "slot": "P",
+        "code": "SBS800",
+        "name": "INDEPENDENT STUDY",
+        "credit": 3,
+        "structure": "0-3-0",
+        "coordinator": "ARCHHANA CHUGH",
+        "limit": "10"
+    },
+    {
+        "slot": "J",
+        "code": "SBV884",
+        "name": "ELEMENTS OF NEUROSCIENCE",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "JAMES GOMES",
+        "limit": "60"
+    },
+    {
+        "slot": "J",
+        "code": "SBV891",
+        "name": "VIRUS-HOST INTERACTIONS",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "MANIDIPA BANERJEE",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "SID880",
+        "name": "MINOR PROJECT IN INFORMATION TECHNOLOGY",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "PREM KUMAR KALRA",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "SID890",
+        "name": "MS RESEARCH PROJECT",
+        "credit": 40,
+        "structure": "0-0-80",
+        "coordinator": "PREM KUMAR KALRA",
+        "limit": "30"
+    },
+    {
+        "slot": "B",
+        "code": "SIL765",
+        "name": "NETWORKS & SYSTEM SECURITY",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "B.N. JAIN",
+        "limit": "60"
+    },
+    {
+        "slot": "AB",
+        "code": "SIL801",
+        "name": "SPECIAL TOPICS IN MULTIMEDIA SYSTEMS",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AADITESHWAR SETH",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "SIV889",
+        "name": "SPL. MOD. IN HUMAN COMP. INTR.",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SUBODH KUMAR",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "SIV895",
+        "name": "SPECIAL MODULE ON INTELLIGENT INFO. PROCESSING",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "PREM KUMAR KALRA",
+        "limit": "30"
+    },
+    {
+        "slot": "F",
+        "code": "TTP716",
+        "name": "FIBRE PRODUCTION & POST SPINNING OPERATION LAB.",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "ASHWINI K. AGRAWAL",
+        "limit": "75"
+    },
+    {
+        "slot": "P",
+        "code": "TXD357",
+        "name": "MINOR DESIGN PROJECT - VII",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "DEEPTI GUPTA",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "TXD358",
+        "name": "Minor Design Project-VIII",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "DEEPTI GUPTA",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "TXD401",
+        "name": "MAJOR PROJECT PART I",
+        "credit": 4,
+        "structure": "0-0-8",
+        "coordinator": "Bipin Kumar",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "TXD402",
+        "name": "MAJOR PROJECT PART II",
+        "credit": 8,
+        "structure": "0-0-16",
+        "coordinator": "Bipin Kumar",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "TXD803",
+        "name": "MAJOR PROJECT PART II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "ABHIJIT MUJUMDAR",
+        "limit": "30"
+    },
+    {
+        "slot": "P",
+        "code": "TXD804",
+        "name": "MAJOR PROJECT PART II",
+        "credit": 12,
+        "structure": "0-0-24",
+        "coordinator": "RAJIV K. SRIVASTAVA",
+        "limit": "30"
+    },
+    {
+        "slot": "D",
+        "code": "TXL211",
+        "name": "STRUCTURE & PHYSICAL PROPERTIE",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "RAJIV K. SRIVASTAVA",
+        "limit": "120"
+    },
+    {
+        "slot": "E",
+        "code": "TXL221",
+        "name": "YARN MANUFACTURE I",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DIPAYAN DAS",
+        "limit": "120"
+    },
+    {
+        "slot": "B",
+        "code": "TXL231",
+        "name": "FABRIC MANUFACTURE I",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "ABHIJIT MUJUMDAR",
+        "limit": "120"
+    },
+    {
+        "slot": "F",
+        "code": "TXL241",
+        "name": "TECH. OF TEXT. PREPARATION & F",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "KUSHAL SEN",
+        "limit": "120"
+    },
+    {
+        "slot": "D",
+        "code": "TXL361",
+        "name": "EVALUATION OF TEXTILE MATERIAL",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "Bipin Kumar",
+        "limit": "120"
+    },
+    {
+        "slot": "C",
+        "code": "TXL371",
+        "name": "THEORY OF TEXTILE STRUCTURES",
+        "credit": 4,
+        "structure": "3-1-0",
+        "coordinator": "S.M. ISHTIAQUE",
+        "limit": "120"
+    },
+    {
+        "slot": "J",
+        "code": "TXL372",
+        "name": "SPECIALITY YARNS AND FABRICS",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "B.K.BEHERA",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "TXL714",
+        "name": "ADVANCED MATERIALS CHARACTERIZATION TECHNIQUES",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "ASHWINI K. AGRAWAL",
+        "limit": "75"
+    },
+    {
+        "slot": "B",
+        "code": "TXL715",
+        "name": "Technology of Solution Spun Fibers",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "MANJEET JASSAL",
+        "limit": "75"
+    },
+    {
+        "slot": "A",
+        "code": "TXL725",
+        "name": "MECHANICS OF SPINNING MACHINES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "R.S. RENGASAMY",
+        "limit": "60"
+    },
+    {
+        "slot": "F",
+        "code": "TXL748",
+        "name": "ADVANCES IN FINISHING OF TEXTILES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "DEEPTI GUPTA",
+        "limit": "40"
+    },
+    {
+        "slot": "B",
+        "code": "TXL754",
+        "name": "SUSTAINABLE CHEMICAL PROCESSING OF TEXTILES",
+        "credit": 2,
+        "structure": "2-0-0",
+        "coordinator": "SAMRAT MUKHOPADHYAY",
+        "limit": "20"
+    },
+    {
+        "slot": "J",
+        "code": "TXL756",
+        "name": "Textile Auxiliaries",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "BHUPENDRA SINGH BUTOLA",
+        "limit": "80"
+    },
+    {
+        "slot": "B",
+        "code": "TXL766",
+        "name": "DE. & MANUF. OF TEXT. STR. CO.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "B.K.BEHERA",
+        "limit": "75"
+    },
+    {
+        "slot": "J",
+        "code": "TXL771",
+        "name": "Electronics and Controls for Textile Industry",
+        "credit": 4,
+        "structure": "3-0-2",
+        "coordinator": "Ankur Gupta",
+        "limit": "30"
+    },
+    {
+        "slot": "H",
+        "code": "TXL773",
+        "name": "MEDICAL TEXTILES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "SOURABH GHOSH",
+        "limit": "60"
+    },
+    {
+        "slot": "D",
+        "code": "TXL775",
+        "name": "TECHNICAL TEXTILES",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "APURBA DAS",
+        "limit": "75"
+    },
+    {
+        "slot": "H",
+        "code": "TXL777",
+        "name": "PRODUCT DESIGN AND DEVELOPMENT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "R. CHATTOPADHYAY",
+        "limit": "75"
+    },
+    {
+        "slot": "F",
+        "code": "TXL782",
+        "name": "PRODUCTION & OPERATIONS MGMT",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "S.M. ISHTIAQUE",
+        "limit": "75"
+    },
+    {
+        "slot": "E",
+        "code": "TXL783",
+        "name": "DESIGN OF EXPER. & STAT. TECH.",
+        "credit": 3,
+        "structure": "3-0-0",
+        "coordinator": "AMIT RAWAL",
+        "limit": "75"
+    },
+    {
+        "slot": "C",
+        "code": "TXP212",
+        "name": "MANUFACTURED FIBRE TECHNO. LAB",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "BHANU NANDAN",
+        "limit": "120"
+    },
+    {
+        "slot": "E",
+        "code": "TXP221",
+        "name": "YARN MANUFACTURE LABORATORYI",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "R.ALAGIRUSAMY",
+        "limit": "120"
+    },
+    {
+        "slot": "B",
+        "code": "TXP231",
+        "name": "FABRIC MANUFACTURE LAB. - I",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "ABHIJIT MUJUMDAR",
+        "limit": "120"
+    },
+    {
+        "slot": "F",
+        "code": "TXP241",
+        "name": "TECH. OF TEX. PRE. & FIN. LAB.",
+        "credit": 1,
+        "structure": "0-0-3",
+        "coordinator": "MD. S. WAZED ALI",
+        "limit": "120"
+    },
+    {
+        "slot": "D",
+        "code": "TXP361",
+        "name": "EVALUATION OF TEXTILES LAB",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "Bipin Kumar",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "TXP725",
+        "name": "MECHANICS OF SPINNING MACHINES LAB",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "R.S. RENGASAMY",
+        "limit": "75"
+    },
+    {
+        "slot": "P",
+        "code": "TXP748",
+        "name": "TEXTILE PREPARATION AND FINISHING LAB",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "Javed Nabibaksha Sheikh",
+        "limit": "25"
+    },
+    {
+        "slot": "C",
+        "code": "TXP761",
+        "name": "EVALUATION OF TEXTILE MATERIALS",
+        "credit": 2,
+        "structure": "0-0-4",
+        "coordinator": "APURBA DAS",
+        "limit": "75"
+    },
+    {
+        "slot": "P",
+        "code": "TXQ302",
+        "name": "Seminar Course 2",
+        "credit": 1,
+        "structure": "0-0-2",
+        "coordinator": "KUSHAL SEN",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "TXV707",
+        "name": "SPL. MODULE IN TEXT. CHE. PRO.",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "B.K.BEHERA",
+        "limit": "60"
+    },
+    {
+        "slot": "X",
+        "code": "TXV709",
+        "name": "Textile Industry 4.0 and Circular Economy",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "B.K.BEHERA",
+        "limit": "120"
+    },
+    {
+        "slot": "P",
+        "code": "VED750",
+        "name": "MINOR PROJECT",
+        "credit": 3,
+        "structure": "0-0-6",
+        "coordinator": "M.R. RAVI",
+        "limit": "15"
+    },
+    {
+        "slot": "M",
+        "code": "VEL700",
+        "name": "HUMAN VALUES AND TECHNOLOGY",
+        "credit": 3,
+        "structure": "2-1-0",
+        "coordinator": "M.R. RAVI",
+        "limit": "60"
+    },
+    {
+        "slot": "P",
+        "code": "VEV731",
+        "name": "Special Module on Inner Development 1",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SANGEETA KOHLI",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "VEV732",
+        "name": "Special Module in Inner Development",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SANGEETA KOHLI",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "VEV733",
+        "name": "Special Module on Leadership � I",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "NOMESH BHOJKUMAR BOLIA",
+        "limit": "0"
+    },
+    {
+        "slot": "P",
+        "code": "VEV735",
+        "name": "SPECIAL MODULE ON SUSTAINABILITY 1",
+        "credit": 1,
+        "structure": "1-0-0",
+        "coordinator": "SANGEETA KOHLI",
+        "limit": "0"
+    }
+]
