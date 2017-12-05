@@ -2,7 +2,7 @@ import json
 import requests
 import os
 
-with open("./course_db.json", "r") as fl:
+with open("./sem1.json", "r") as fl:
     course_list = json.loads(fl.read())
 
 #curl 'https://academics1.iitd.ac.in/Academics/GenerateExcel.php?page=excel&secret=07d5ba2560b6586a955ec6153ec85ac0a07534d7&uname=2015CS10262' -H 'Cookie: _ga=GA1.3.1716513787.1485603351' -H 'Origin: https://academics1.iitd.ac.in' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language: en-US,en;q=0.8,hi;q=0.6' -H 'Upgrade-Insecure-Requests: 1' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8' -H 'Cache-Control: max-age=0' -H 'Referer: https://academics1.iitd.ac.in/Academics/index.php?page=ListCourseN&secret=fc93f3c5a0584122f7339d6e19a3b45d05fbc051&uname=2015CS10262' -H 'Connection: keep-alive' -H 'DNT: 1' --data 'submit=Download+Data+in+CSV+File&EntryNumber=COL100&UserID=2015CS10262' --compressed
