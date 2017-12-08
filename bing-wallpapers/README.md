@@ -22,7 +22,7 @@ Using bing-wallpaper is fairly simple. Just issue the following commands on a li
 
 ```
 cd ~
-wget https://github.com/devclub-iitd/Scripts/release/bing-wallpapers.zip
+wget https://github.com/devclub-iitd/Scripts/raw/master/release/bing-wallpapers.zip
 unzip bing-wallpapers.zip
 cd bing-wallpapers
 pip3 install --user requests os mimetypes datetime argparse shutil
