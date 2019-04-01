@@ -3,9 +3,9 @@ package main
 import (
     "fmt"
     "time"
-    "os"
     "strconv"
     "log"
+    "github.com/howeyc/gopass"
 )
 
 var username, password, proxy_cat string;
@@ -43,20 +43,16 @@ func get_proxy_url() (proxy_url string) {
 
 
 func main() {
-    // parse arguments
+    // input arguments
 
-    if len(os.Args) != 4 {
-        fmt.Println("Invalid Number of Command Line Arguments")
-        fmt.Println("Run the following Command - ")
-        fmt.Println("./proxyLogin USERNAME PASSWORD CATEGORY")
-        fmt.Println("where CATEGORY could be one of the following only - ")
-        fmt.Println("btech,dual,diit,faculty,integrated,mtech,phd,retfaculty,staff,irdstaff,mba,mdes,msc,msr,pgdip")
-        log.Fatal("Exiting..")
-    }
 
-    username = os.Args[1]
-    password = os.Args[2]
-    proxy_cat = os.Args[3]
+    fmt.Print("Enter username: ")
+    fmt.Scanln(&username)
+    fmt.Print("Enter password: ")
+    maskedPassword, _ := gopass.GetPasswdMasked() // Masked
+    password = string(maskedPassword);
+    fmt.Print("Enter category: ")
+    fmt.Scanln(&proxy_cat)
 
     _ , ok := proxy_set[proxy_cat]
     if !ok {
@@ -65,14 +61,27 @@ func main() {
         log.Fatal("Exiting..")
     }
 
+    first := false
+
     // start main loop
     for {
         if have_internet(external_site, response_String, true, get_proxy_address()) == false {
             if config_intranet(get_proxy_url()) == false {
                 fmt.Println("Not Connected to intranet")
+            } else {
+                first = true
             }
         } else {
             fmt.Println("Connected to internet")
+            if first {
+                fmt.Println("Run the following commands on a linux terminal to set the proxy environment variable: ")
+                fmt.Println("(This is optional and is only useful for accessing internet via terminal)")
+                fmt.Println("export http_proxy=\"http://proxy"+strconv.Itoa(proxy_set[proxy_cat])+".iitd.ac.in:3128\"")
+                fmt.Println("export https_proxy=\"http://proxy"+strconv.Itoa(proxy_set[proxy_cat])+".iitd.ac.in:3128\"")
+                fmt.Println("export HTTP_PROXY=\"http://proxy"+strconv.Itoa(proxy_set[proxy_cat])+".iitd.ac.in:3128\"")
+                fmt.Println("export HTTPS_PROXY=\"http://proxy"+strconv.Itoa(proxy_set[proxy_cat])+".iitd.ac.in:3128\"")
+                first = false
+            }
         }
 
         time.Sleep(5000 * time.Millisecond)
