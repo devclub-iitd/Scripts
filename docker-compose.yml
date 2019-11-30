@@ -1,0 +1,27 @@
+version: '3.4'
+services:
+  bot:
+    build: .
+    image: "${REGISTRY_NAME}devclubiitd/assignmentbot:0.1"
+    env_file:
+      - ./.env
+    environment:
+      - FLASK_RUN_PORT=${PORT}
+      - VIRTUAL_HOST=${VIRTUAL_HOST}
+    ports:
+      - ${PORT}:${PORT}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:${PORT}"]
+      interval: 1m30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: always
+    networks:
+      - "reverseproxy"
+      - "internal"
+networks:
+  reverseproxy:
+    external:
+      name: "reverseproxy"
+  internal:

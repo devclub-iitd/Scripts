@@ -2,3 +2,5 @@ virtualenv/
 ldapSearch/
 .vscode/
 ignore/
+.gitsecret/keys/random_seed
+.env
