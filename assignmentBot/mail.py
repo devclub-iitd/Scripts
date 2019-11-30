@@ -18,12 +18,17 @@ def next_mail(data):
     send_mail(recipient, content)
 
 
-def err_mail(data):
+def err_mail(data, err_code):
     name = data['Name'].split(' ')[0]
     recipient = data['Email Address']
     topic = data['Assignment']
 
-    content = ERR_MAIL_TEMPLATE.format(NAME=name, TOPIC=topic)
+    if err_code == 1:
+        error = "is not a github repo"
+    else:
+        error = "doesn't exist. Either the repo is private or the link is wrong"
+
+    content = ERR_MAIL_TEMPLATE.format(NAME=name, TOPIC=topic, ERROR=error)
     send_mail(recipient, content)
 
 
@@ -34,7 +39,7 @@ def send_mail(recipient, content):
     message['Subject'] = 'DevClub Winter Assignment'
     message.attach(MIMEText(content, 'plain'))
 
-    session = smtplib.SMTP('smtp.google.com', 587)
+    session = smtplib.SMTP('smtp.gmail.com', 587)
     session.starttls()
     session.login(EMAIL, PASS)
 

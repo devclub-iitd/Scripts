@@ -1,5 +1,5 @@
 from datetime import datetime
-from flask import Flask, request
+from flask import Flask, request, Response
 from collections import defaultdict
 import requests
 from util import *
@@ -11,15 +11,22 @@ app = Flask(__name__)
 
 @app.route("/", methods=["GET"])
 def check():
-    return "Service Running"
+    return Response("Service Running", status=200)
 
 @app.route("/submit", methods=["POST"])
 def submit():
     request_data = request.get_json()
-    if verify_url(request_data['Github Repo URL']):
+    print(request_data)
+    print('hello')
+    status = verify_url(request_data['Github Repo URL'])
+    if status == 0:
         next_mail(request_data)
+    elif status == 1:
+        err_mail(request_data, 1)
     else:
-        err_mail(request_data)
+        err_mail(request_data, 2)
+
+    return Response("Email Sent", status=200)
 
 if __name__ == '__main__':
     app.run()

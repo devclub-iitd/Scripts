@@ -8,4 +8,4 @@ RUN pip install -Ur requirements.txt
 
 COPY assignmentBot/* /bot/
 
-CMD ["flask", "run"]
+CMD ["flask", "run", "--host=0.0.0.0"]
