@@ -2,10 +2,9 @@ from datetime import datetime
 from flask import Flask, request, Response
 from collections import defaultdict
 import requests
+import json
 from util import *
 from mail import *
-
-users = defaultdict(int)
 
 app = Flask(__name__)
 
@@ -15,9 +14,9 @@ def check():
 
 @app.route("/submit", methods=["POST"])
 def submit():
-    request_data = request.get_json()
-    print(request_data)
-    print('hello')
+    data = request.data
+    request_data = json.loads(data.decode('utf-8'))
+    app.logger.error(request_data)
     status = verify_url(request_data['Github Repo URL'])
     if status == 0:
         next_mail(request_data)

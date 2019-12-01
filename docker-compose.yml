@@ -10,6 +10,8 @@ services:
       - VIRTUAL_HOST=${VIRTUAL_HOST}
     ports:
       - ${PORT}:${PORT}
+      - 587:587
+      - 25:25
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:${PORT}"]
       interval: 1m30s

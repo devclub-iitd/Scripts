@@ -12,10 +12,10 @@ def verify_url(url):
     if not 'github.com' in host:
         return 1
 
-    r = requests.get(url)
+    # r = requests.get(url)
 
-    if r.status_code==404:
-        return 2
+    # if r.status_code==404:
+    #     return 2
     return 0
 
 def get_next_link(curr_assignment, email):
